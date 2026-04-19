@@ -30,12 +30,15 @@ jobs:
       - name: Run data collection script
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-        run: python update_macro.py
+        run: |
+          python update_macro.py
+          python update_fear_greed.py 
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add macro_optimized.json
-          # 변경사항이 있을 때만 커밋 (에러 방지)
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update macro data: $(date +'%Y-%m-%d')" && git push)
+          git add macro_optimized.json fear_greed.json 
+          
+          # 변경사항이 있을 때만 커밋
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update macro and fng data: $(date +'%Y-%m-%d')" && git push)
