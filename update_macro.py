@@ -21,20 +21,20 @@ def get_optimized_macro_data():
         "RRPONTSYD": "역레포(RRP) 잔고", 
         "WALCL": "연준 총자산", 
         "WTREGEN": "재무부 일반계정(TGA)", 
+        "BOGMBASE": "본원통화", 
+        "WM1NS": "M1 통화량",
         "M2SL": "M2 통화량", 
         "TOTRESNS": "전체 지급준비금",
         "WSHOMCB": "연준 보유 MBS", 
         "TREAST": "연준 보유 국채", 
         "CURRCIR": "화폐 유통량", 
-        "IORB": "지준부리마", 
-        "BOGMBASE": "본원통화", 
-        "WLCFLPCL": "연준 대출: 유동성 지원", # WLCFLL 대체
+        "IORB": "지급준비금 이자", 
+        "WLCFLPCL": "연준 대출: 유동성 지원", 
         "WLCFLP": "연준 대출: 할인창구", 
-        "H41RESPP9": "BTFP(은행 지원 프로그램)", # WLCFBT 대체
+        "H41RESPP9": "BTFP(은행 지원 프로그램)",
         "WSHONCL": "연준 보유 기타 자산",
-        "DFF": "연방기금 실효금리", # REFRAT 대체
+        "DFF": "연방기금 실효금리",
         "WLRRAL": "연준 부채: 역레포 합계", 
-        "WM1NS": "M1 통화량", 
         
         # --- 금리 및 채권 시장 ---
         "T10Y2Y": "장단기 금리차 (10-2)", 
