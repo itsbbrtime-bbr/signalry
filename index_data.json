@@ -2,6 +2,7 @@
     {
         "id": "SP500",
         "name": "S&P 500",
+        "frequency": "Daily",
         "currentValue": 7137.9,
         "data": [
             {
@@ -1013,6 +1014,7 @@
     {
         "id": "NASDAQCOM",
         "name": "NASDAQ",
+        "frequency": "Daily",
         "currentValue": 24657.57,
         "data": [
             {
@@ -2024,6 +2026,7 @@
     {
         "id": "VIXCLS",
         "name": "VIX",
+        "frequency": "Daily",
         "currentValue": 19.5,
         "data": [
             {
@@ -3059,6 +3062,7 @@
     {
         "id": "DGS2",
         "name": "US 2Y Yield",
+        "frequency": "Daily",
         "currentValue": 3.78,
         "data": [
             {
@@ -4062,6 +4066,7 @@
     {
         "id": "DGS10",
         "name": "US 10Y Yield",
+        "frequency": "Daily",
         "currentValue": 4.3,
         "data": [
             {
@@ -5065,6 +5070,7 @@
     {
         "id": "DGS30",
         "name": "US 30Y Yield",
+        "frequency": "Daily",
         "currentValue": 4.89,
         "data": [
             {
@@ -6068,6 +6074,7 @@
     {
         "id": "DCOILWTICO",
         "name": "WTI Oil",
+        "frequency": "Daily",
         "currentValue": 91.06,
         "data": [
             {
@@ -7063,6 +7070,7 @@
     {
         "id": "DCOILBRENTEU",
         "name": "Brent Oil",
+        "frequency": "Daily",
         "currentValue": 103.4,
         "data": [
             {
@@ -8074,6 +8082,7 @@
     {
         "id": "DTWEXBGS",
         "name": "Dollar Index",
+        "frequency": "Daily",
         "currentValue": 118.0795,
         "data": [
             {
