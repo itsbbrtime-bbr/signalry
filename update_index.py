@@ -4,24 +4,26 @@ import os
 from datetime import datetime, timedelta
 
 # FRED API 설정
-API_KEY = os.environ['FRED_API_KEY']
+# GitHub Actions 환경변수에서 API 키를 가져옵니다.
+API_KEY = os.environ.get('FRED_API_KEY')
 BASE_URL = "https://api.stlouisfed.org/fred/series/observations"
 
-# 수집할 지표 리스트 (ID: 이름)
+# 수집할 지표 리스트 (ID: (이름, 빈도))
+# 주식, 채권, 원자재 모두 일별 데이터이므로 "Daily"로 설정합니다.
 SERIES_IDS = {
-    "SP500": "S&P 500",
-    "NASDAQCOM": "NASDAQ",
-    "VIXCLS": "VIX",
-    "DGS2": "US 2Y Yield",
-    "DGS10": "US 10Y Yield",
-    "DGS30": "US 30Y Yield",
-    "GOLDAMGBD228NLBM": "Gold",
-    "DCOILWTICO": "WTI Oil",
-    "DCOILBRENTEU": "Brent Oil",
-    "DTWEXBGS": "Dollar Index"
+    "SP500": ("S&P 500", "Daily"),
+    "NASDAQCOM": ("NASDAQ", "Daily"),
+    "VIXCLS": ("VIX", "Daily"),
+    "DGS2": ("US 2Y Yield", "Daily"),
+    "DGS10": ("US 10Y Yield", "Daily"),
+    "DGS30": ("US 30Y Yield", "Daily"),
+    "GOLDAMGBD228NLBM": ("Gold", "Daily"),
+    "DCOILWTICO": ("WTI Oil", "Daily"),
+    "DCOILBRENTEU": ("Brent Oil", "Daily"),
+    "DTWEXBGS": ("Dollar Index", "Daily")
 }
 
-def fetch_fred_data(series_id, name):
+def fetch_fred_data(series_id, name, frequency):
     end_date = datetime.now().strftime('%Y-%m-%d')
     start_date = (datetime.now() - timedelta(days=365)).strftime('%Y-%m-%d')
     
@@ -34,37 +36,44 @@ def fetch_fred_data(series_id, name):
         "sort_order": "asc"
     }
     
-    response = requests.get(BASE_URL, params=params)
-    if response.status_code == 200:
-        observations = response.json().get("observations", [])
-        # '.'으로 들어오는 결측치 제거 및 포맷팅
-        data_points = []
-        last_value = 0.0
-        
-        for obs in observations:
-            try:
-                val = float(obs["value"])
-                data_points.append({"date": obs["date"], "value": val})
-                last_value = val
-            except ValueError:
-                continue # 주말/공휴일 패스
-                
-        return {
-            "id": series_id,
-            "name": name,
-            "currentValue": last_value,
-            "data": data_points
-        }
+    try:
+        response = requests.get(BASE_URL, params=params)
+        if response.status_code == 200:
+            observations = response.json().get("observations", [])
+            data_points = []
+            last_value = 0.0
+            
+            for obs in observations:
+                try:
+                    # FRED는 값이 없는 주말/공휴일에 '.'을 반환합니다.
+                    if obs["value"] == ".":
+                        continue
+                    
+                    val = float(obs["value"])
+                    data_points.append({"date": obs["date"], "value": val})
+                    last_value = val
+                except (ValueError, KeyError):
+                    continue 
+                    
+            return {
+                "id": series_id,
+                "name": name,
+                "frequency": frequency,   # Swift 모델의 'frequency'에 대응
+                "currentValue": last_value, # Swift 모델의 'currentValue'에 대응
+                "data": data_points        # Swift 모델의 'data'에 대응
+            }
+    except Exception as e:
+        print(f"Error fetching {name}: {e}")
     return None
 
 all_metrics = []
-for s_id, s_name in SERIES_IDS.items():
+for s_id, (s_name, s_freq) in SERIES_IDS.items():
     print(f"Fetching {s_name}...")
-    result = fetch_fred_data(s_id, s_name)
+    result = fetch_fred_data(s_id, s_name, s_freq)
     if result:
         all_metrics.append(result)
 
-# JSON 파일로 저장
+# 최종 JSON 파일 저장 (파일명은 필요에 따라 macro_data.json 등으로 변경 가능)
 with open("index_data.json", "w", encoding="utf-8") as f:
     json.dump(all_metrics, f, ensure_ascii=False, indent=4)
 
