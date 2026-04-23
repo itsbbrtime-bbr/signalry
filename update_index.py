@@ -65,7 +65,7 @@ for s_id, s_name in SERIES_IDS.items():
         all_metrics.append(result)
 
 # JSON 파일로 저장
-with open("macro_data.json", "w", encoding="utf-8") as f:
+with open("index_data.json", "w", encoding="utf-8") as f:
     json.dump(all_metrics, f, ensure_ascii=False, indent=4)
 
 print("Successfully updated macro_data.json")
