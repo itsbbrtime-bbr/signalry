@@ -13,6 +13,7 @@ BASE_URL = "https://api.stlouisfed.org/fred/series/observations"
 SERIES_IDS = {
     "SP500": ("S&P 500", "D"),
     "NASDAQCOM": ("NASDAQ", "D"),
+    "NASDAQ100": ("NASDAQ-100", "D"),
     "VIXCLS": ("VIX", "D")
 }
 
