@@ -14,7 +14,14 @@ SERIES_IDS = {
     "SP500": ("S&P 500", "D"),
     "NASDAQCOM": ("NASDAQ", "D"),
     "NASDAQ100": ("NASDAQ-100", "D"),
-    "VIXCLS": ("VIX", "D")
+    "VIXCLS": ("VIX", "D"),
+    "DGS2": ("US 2Y Yield", "Daily"),
+    "DGS10": ("US 10Y Yield", "Daily"),
+    "DGS30": ("US 30Y Yield", "Daily"),
+    "GOLDAMGBD228NLBM": ("Gold", "Daily"),
+    "DCOILWTICO": ("WTI Oil", "Daily"),
+    "DCOILBRENTEU": ("Brent Oil", "Daily"),
+    "DTWEXBGS": ("Dollar Index", "Daily")
 }
 
 def fetch_fred_data(series_id, name, frequency):
