@@ -13,14 +13,7 @@ BASE_URL = "https://api.stlouisfed.org/fred/series/observations"
 SERIES_IDS = {
     "SP500": ("S&P 500", "D"),
     "NASDAQCOM": ("NASDAQ", "D"),
-    "VIXCLS": ("VIX", "D"),
-    "DGS2": ("US 2Y Yield", "D"),
-    "DGS10": ("US 10Y Yield", "D"),
-    "DGS30": ("US 30Y Yield", "D"),
-    "GOLDAMGBD228NLBM": ("Gold", "D"),
-    "DCOILWTICO": ("WTI Oil", "D"),
-    "DCOILBRENTEU": ("Brent Oil", "D"),
-    "DTWEXBGS": ("Dollar Index", "D")
+    "VIXCLS": ("VIX", "D")
 }
 
 def fetch_fred_data(series_id, name, frequency):
