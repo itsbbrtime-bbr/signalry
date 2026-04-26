@@ -20,7 +20,7 @@ def get_optimized_macro_data():
         "FEDFUNDS": "미국 기준금리", 
         "RRPONTSYD": "역레포(RRP) 잔고", 
         "WALCL": "연준 총자산", 
-        "WTREGEN": "재무부 일반계정(TGA)", 
+        "WDTGAL": "재무부 일반계정(TGA)", 
         "BOGMBASE": "본원통화", 
         "WM1NS": "M1 통화량",
         "M2SL": "M2 통화량", 
