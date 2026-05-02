@@ -3,12 +3,8 @@
         "id": "SP500",
         "name": "S&P 500",
         "frequency": "D",
-        "currentValue": 7209.01,
+        "currentValue": 7230.12,
         "data": [
-            {
-                "date": "2025-05-01",
-                "value": 5604.14
-            },
             {
                 "date": "2025-05-02",
                 "value": 5686.67
@@ -1008,6 +1004,10 @@
             {
                 "date": "2026-04-30",
                 "value": 7209.01
+            },
+            {
+                "date": "2026-05-01",
+                "value": 7230.12
             }
         ]
     },
@@ -1015,12 +1015,8 @@
         "id": "NASDAQCOM",
         "name": "NASDAQ",
         "frequency": "D",
-        "currentValue": 24892.31,
+        "currentValue": 25114.44,
         "data": [
-            {
-                "date": "2025-05-01",
-                "value": 17710.74
-            },
             {
                 "date": "2025-05-02",
                 "value": 17977.73
@@ -2020,6 +2016,10 @@
             {
                 "date": "2026-04-30",
                 "value": 24892.31
+            },
+            {
+                "date": "2026-05-01",
+                "value": 25114.44
             }
         ]
     },
@@ -2027,12 +2027,8 @@
         "id": "NASDAQ100",
         "name": "NASDAQ-100",
         "frequency": "D",
-        "currentValue": 27452.12,
+        "currentValue": 27710.36,
         "data": [
-            {
-                "date": "2025-05-01",
-                "value": 19786.71
-            },
             {
                 "date": "2025-05-02",
                 "value": 20102.61
@@ -3032,6 +3028,10 @@
             {
                 "date": "2026-04-30",
                 "value": 27452.12
+            },
+            {
+                "date": "2026-05-01",
+                "value": 27710.36
             }
         ]
     },
@@ -3039,12 +3039,8 @@
         "id": "VIXCLS",
         "name": "VIX",
         "frequency": "D",
-        "currentValue": 18.81,
+        "currentValue": 16.89,
         "data": [
-            {
-                "date": "2025-05-01",
-                "value": 24.6
-            },
             {
                 "date": "2025-05-02",
                 "value": 22.68
@@ -4068,6 +4064,10 @@
             {
                 "date": "2026-04-29",
                 "value": 18.81
+            },
+            {
+                "date": "2026-04-30",
+                "value": 16.89
             }
         ]
     },
@@ -4075,12 +4075,8 @@
         "id": "DGS2",
         "name": "US 2Y Yield",
         "frequency": "Daily",
-        "currentValue": 3.92,
+        "currentValue": 3.88,
         "data": [
-            {
-                "date": "2025-05-01",
-                "value": 3.7
-            },
             {
                 "date": "2025-05-02",
                 "value": 3.83
@@ -5072,6 +5068,10 @@
             {
                 "date": "2026-04-29",
                 "value": 3.92
+            },
+            {
+                "date": "2026-04-30",
+                "value": 3.88
             }
         ]
     },
@@ -5079,12 +5079,8 @@
         "id": "DGS10",
         "name": "US 10Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.42,
+        "currentValue": 4.4,
         "data": [
-            {
-                "date": "2025-05-01",
-                "value": 4.25
-            },
             {
                 "date": "2025-05-02",
                 "value": 4.33
@@ -6076,6 +6072,10 @@
             {
                 "date": "2026-04-29",
                 "value": 4.42
+            },
+            {
+                "date": "2026-04-30",
+                "value": 4.4
             }
         ]
     },
@@ -6085,10 +6085,6 @@
         "frequency": "Daily",
         "currentValue": 4.98,
         "data": [
-            {
-                "date": "2025-05-01",
-                "value": 4.74
-            },
             {
                 "date": "2025-05-02",
                 "value": 4.79
@@ -7080,6 +7076,10 @@
             {
                 "date": "2026-04-29",
                 "value": 4.98
+            },
+            {
+                "date": "2026-04-30",
+                "value": 4.98
             }
         ]
     },
@@ -7089,10 +7089,6 @@
         "frequency": "Daily",
         "currentValue": 99.89,
         "data": [
-            {
-                "date": "2025-05-01",
-                "value": 60.59
-            },
             {
                 "date": "2025-05-02",
                 "value": 59.67
@@ -8081,10 +8077,6 @@
         "frequency": "Daily",
         "currentValue": 113.89,
         "data": [
-            {
-                "date": "2025-05-01",
-                "value": 62.37
-            },
             {
                 "date": "2025-05-02",
                 "value": 61.57
@@ -9089,10 +9081,6 @@
         "frequency": "Daily",
         "currentValue": 118.7294,
         "data": [
-            {
-                "date": "2025-05-01",
-                "value": 123.1405
-            },
             {
                 "date": "2025-05-02",
                 "value": 122.4962
