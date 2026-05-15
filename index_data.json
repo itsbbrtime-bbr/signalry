@@ -6,10 +6,6 @@
         "currentValue": 7444.25,
         "data": [
             {
-                "date": "2025-05-14",
-                "value": 5892.58
-            },
-            {
                 "date": "2025-05-15",
                 "value": 5916.93
             },
@@ -1017,10 +1013,6 @@
         "frequency": "D",
         "currentValue": 26402.34,
         "data": [
-            {
-                "date": "2025-05-14",
-                "value": 19146.81
-            },
             {
                 "date": "2025-05-15",
                 "value": 19112.32
@@ -2030,10 +2022,6 @@
         "currentValue": 29366.94,
         "data": [
             {
-                "date": "2025-05-14",
-                "value": 21319.21
-            },
-            {
                 "date": "2025-05-15",
                 "value": 21335.82
             },
@@ -3039,12 +3027,8 @@
         "id": "VIXCLS",
         "name": "VIX",
         "frequency": "D",
-        "currentValue": 17.99,
+        "currentValue": 17.87,
         "data": [
-            {
-                "date": "2025-05-14",
-                "value": 18.62
-            },
             {
                 "date": "2025-05-15",
                 "value": 17.83
@@ -4068,6 +4052,10 @@
             {
                 "date": "2026-05-12",
                 "value": 17.99
+            },
+            {
+                "date": "2026-05-13",
+                "value": 17.87
             }
         ]
     },
@@ -4075,12 +4063,8 @@
         "id": "DGS2",
         "name": "US 2Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.0,
+        "currentValue": 3.98,
         "data": [
-            {
-                "date": "2025-05-14",
-                "value": 4.05
-            },
             {
                 "date": "2025-05-15",
                 "value": 3.96
@@ -5072,6 +5056,10 @@
             {
                 "date": "2026-05-12",
                 "value": 4.0
+            },
+            {
+                "date": "2026-05-13",
+                "value": 3.98
             }
         ]
     },
@@ -5081,10 +5069,6 @@
         "frequency": "Daily",
         "currentValue": 4.46,
         "data": [
-            {
-                "date": "2025-05-14",
-                "value": 4.53
-            },
             {
                 "date": "2025-05-15",
                 "value": 4.45
@@ -6076,6 +6060,10 @@
             {
                 "date": "2026-05-12",
                 "value": 4.46
+            },
+            {
+                "date": "2026-05-13",
+                "value": 4.46
             }
         ]
     },
@@ -6085,10 +6073,6 @@
         "frequency": "Daily",
         "currentValue": 5.03,
         "data": [
-            {
-                "date": "2025-05-14",
-                "value": 4.97
-            },
             {
                 "date": "2025-05-15",
                 "value": 4.91
@@ -7080,6 +7064,10 @@
             {
                 "date": "2026-05-12",
                 "value": 5.03
+            },
+            {
+                "date": "2026-05-13",
+                "value": 5.03
             }
         ]
     },
@@ -7089,10 +7077,6 @@
         "frequency": "Daily",
         "currentValue": 101.56,
         "data": [
-            {
-                "date": "2025-05-14",
-                "value": 64.48
-            },
             {
                 "date": "2025-05-15",
                 "value": 63.03
@@ -8085,10 +8069,6 @@
         "frequency": "Daily",
         "currentValue": 106.11,
         "data": [
-            {
-                "date": "2025-05-14",
-                "value": 65.91
-            },
             {
                 "date": "2025-05-15",
                 "value": 64.36
@@ -9097,10 +9077,6 @@
         "frequency": "Daily",
         "currentValue": 118.0392,
         "data": [
-            {
-                "date": "2025-05-14",
-                "value": 122.6746
-            },
             {
                 "date": "2025-05-15",
                 "value": 122.8174
