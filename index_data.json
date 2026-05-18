@@ -3027,7 +3027,7 @@
         "id": "VIXCLS",
         "name": "VIX",
         "frequency": "D",
-        "currentValue": 17.26,
+        "currentValue": 18.43,
         "data": [
             {
                 "date": "2025-05-19",
@@ -4052,6 +4052,10 @@
             {
                 "date": "2026-05-14",
                 "value": 17.26
+            },
+            {
+                "date": "2026-05-15",
+                "value": 18.43
             }
         ]
     },
