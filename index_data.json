@@ -4063,7 +4063,7 @@
         "id": "DGS2",
         "name": "US 2Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.0,
+        "currentValue": 4.09,
         "data": [
             {
                 "date": "2025-05-19",
@@ -5056,6 +5056,10 @@
             {
                 "date": "2026-05-14",
                 "value": 4.0
+            },
+            {
+                "date": "2026-05-15",
+                "value": 4.09
             }
         ]
     },
@@ -5063,7 +5067,7 @@
         "id": "DGS10",
         "name": "US 10Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.47,
+        "currentValue": 4.59,
         "data": [
             {
                 "date": "2025-05-19",
@@ -6056,6 +6060,10 @@
             {
                 "date": "2026-05-14",
                 "value": 4.47
+            },
+            {
+                "date": "2026-05-15",
+                "value": 4.59
             }
         ]
     },
@@ -6063,7 +6071,7 @@
         "id": "DGS30",
         "name": "US 30Y Yield",
         "frequency": "Daily",
-        "currentValue": 5.02,
+        "currentValue": 5.12,
         "data": [
             {
                 "date": "2025-05-19",
@@ -7056,6 +7064,10 @@
             {
                 "date": "2026-05-14",
                 "value": 5.02
+            },
+            {
+                "date": "2026-05-15",
+                "value": 5.12
             }
         ]
     },
@@ -9047,7 +9059,7 @@
         "id": "DTWEXBGS",
         "name": "Dollar Index",
         "frequency": "Daily",
-        "currentValue": 118.0392,
+        "currentValue": 119.2825,
         "data": [
             {
                 "date": "2025-05-19",
@@ -10024,6 +10036,26 @@
             {
                 "date": "2026-05-08",
                 "value": 118.0392
+            },
+            {
+                "date": "2026-05-11",
+                "value": 118.0562
+            },
+            {
+                "date": "2026-05-12",
+                "value": 118.5238
+            },
+            {
+                "date": "2026-05-13",
+                "value": 118.4737
+            },
+            {
+                "date": "2026-05-14",
+                "value": 118.6696
+            },
+            {
+                "date": "2026-05-15",
+                "value": 119.2825
             }
         ]
     }
