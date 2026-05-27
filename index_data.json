@@ -1011,7 +1011,7 @@
         "id": "NASDAQCOM",
         "name": "NASDAQ",
         "frequency": "D",
-        "currentValue": 26343.97,
+        "currentValue": 26656.18,
         "data": [
             {
                 "date": "2025-05-27",
@@ -2012,6 +2012,10 @@
             {
                 "date": "2026-05-22",
                 "value": 26343.97
+            },
+            {
+                "date": "2026-05-26",
+                "value": 26656.18
             }
         ]
     },
@@ -2019,7 +2023,7 @@
         "id": "NASDAQ100",
         "name": "NASDAQ-100",
         "frequency": "D",
-        "currentValue": 29481.64,
+        "currentValue": 30001.32,
         "data": [
             {
                 "date": "2025-05-27",
@@ -3020,6 +3024,10 @@
             {
                 "date": "2026-05-22",
                 "value": 29481.64
+            },
+            {
+                "date": "2026-05-26",
+                "value": 30001.32
             }
         ]
     },
@@ -3027,12 +3035,8 @@
         "id": "VIXCLS",
         "name": "VIX",
         "frequency": "D",
-        "currentValue": 16.76,
+        "currentValue": 16.59,
         "data": [
-            {
-                "date": "2025-05-26",
-                "value": 20.57
-            },
             {
                 "date": "2025-05-27",
                 "value": 18.96
@@ -4052,6 +4056,14 @@
             {
                 "date": "2026-05-21",
                 "value": 16.76
+            },
+            {
+                "date": "2026-05-22",
+                "value": 16.7
+            },
+            {
+                "date": "2026-05-25",
+                "value": 16.59
             }
         ]
     },
@@ -4059,7 +4071,7 @@
         "id": "DGS2",
         "name": "US 2Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.08,
+        "currentValue": 4.13,
         "data": [
             {
                 "date": "2025-05-27",
@@ -5052,6 +5064,10 @@
             {
                 "date": "2026-05-21",
                 "value": 4.08
+            },
+            {
+                "date": "2026-05-22",
+                "value": 4.13
             }
         ]
     },
@@ -5059,7 +5075,7 @@
         "id": "DGS10",
         "name": "US 10Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.57,
+        "currentValue": 4.56,
         "data": [
             {
                 "date": "2025-05-27",
@@ -6052,6 +6068,10 @@
             {
                 "date": "2026-05-21",
                 "value": 4.57
+            },
+            {
+                "date": "2026-05-22",
+                "value": 4.56
             }
         ]
     },
@@ -6059,7 +6079,7 @@
         "id": "DGS30",
         "name": "US 30Y Yield",
         "frequency": "Daily",
-        "currentValue": 5.1,
+        "currentValue": 5.07,
         "data": [
             {
                 "date": "2025-05-27",
@@ -7052,6 +7072,10 @@
             {
                 "date": "2026-05-21",
                 "value": 5.1
+            },
+            {
+                "date": "2026-05-22",
+                "value": 5.07
             }
         ]
     },
@@ -9043,7 +9067,7 @@
         "id": "DTWEXBGS",
         "name": "Dollar Index",
         "frequency": "Daily",
-        "currentValue": 119.2825,
+        "currentValue": 119.2868,
         "data": [
             {
                 "date": "2025-05-27",
@@ -10020,6 +10044,26 @@
             {
                 "date": "2026-05-15",
                 "value": 119.2825
+            },
+            {
+                "date": "2026-05-18",
+                "value": 119.0574
+            },
+            {
+                "date": "2026-05-19",
+                "value": 119.451
+            },
+            {
+                "date": "2026-05-20",
+                "value": 119.1624
+            },
+            {
+                "date": "2026-05-21",
+                "value": 119.369
+            },
+            {
+                "date": "2026-05-22",
+                "value": 119.2868
             }
         ]
     }
