@@ -3282,10 +3282,6 @@
     "currentValue": 3.65,
     "data": [
       {
-        "date": "2025-05-31",
-        "value": 4.4
-      },
-      {
         "date": "2025-06-01",
         "value": 4.4
       },
@@ -4975,10 +4971,6 @@
     "period_years": 1,
     "currentValue": 3.62,
     "data": [
-      {
-        "date": "2025-05-31",
-        "value": 4.33
-      },
       {
         "date": "2025-06-01",
         "value": 4.33
@@ -12667,10 +12659,6 @@
     "period_years": 1,
     "currentValue": 2.72,
     "data": [
-      {
-        "date": "2025-05-31",
-        "value": 3.32
-      },
       {
         "date": "2025-06-02",
         "value": 3.27
@@ -26827,10 +26815,6 @@
     "currentValue": 215000.0,
     "data": [
       {
-        "date": "2025-05-31",
-        "value": 244000.0
-      },
-      {
         "date": "2025-06-07",
         "value": 246000.0
       },
@@ -27043,10 +27027,6 @@
     "period_years": 1,
     "currentValue": 1786000.0,
     "data": [
-      {
-        "date": "2025-05-31",
-        "value": 1947000.0
-      },
       {
         "date": "2025-06-07",
         "value": 1935000.0
@@ -34866,10 +34846,6 @@
     "period_years": 1,
     "currentValue": 232.29,
     "data": [
-      {
-        "date": "2025-05-31",
-        "value": 389.5
-      },
       {
         "date": "2025-06-01",
         "value": 902.62
