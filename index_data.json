@@ -3042,10 +3042,6 @@
         "currentValue": 18.44,
         "data": [
             {
-                "date": "2025-06-19",
-                "value": 22.17
-            },
-            {
                 "date": "2025-06-20",
                 "value": 20.62
             },
@@ -8081,10 +8077,6 @@
         "frequency": "Daily",
         "currentValue": 84.36,
         "data": [
-            {
-                "date": "2025-06-19",
-                "value": 80.37
-            },
             {
                 "date": "2025-06-20",
                 "value": 78.73
