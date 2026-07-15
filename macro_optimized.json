@@ -253,12 +253,8 @@
     "name": "역레포(RRP) 잔고",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 0.795,
+    "currentValue": 0.278,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 217.841
-      },
       {
         "date": "2025-07-15",
         "value": 198.277
@@ -1250,6 +1246,10 @@
       {
         "date": "2026-07-13",
         "value": 0.795
+      },
+      {
+        "date": "2026-07-14",
+        "value": 0.278
       }
     ]
   },
@@ -1939,10 +1939,6 @@
     "period_years": 1,
     "currentValue": 19761.2,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 18787.6
-      },
       {
         "date": "2025-07-21",
         "value": 18738.7
@@ -3277,10 +3273,6 @@
     "period_years": 1,
     "currentValue": 3.65,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 4.4
-      },
       {
         "date": "2025-07-15",
         "value": 4.4
@@ -4740,6 +4732,10 @@
       {
         "date": "2026-07-14",
         "value": 3.65
+      },
+      {
+        "date": "2026-07-15",
+        "value": 3.65
       }
     ]
   },
@@ -4967,10 +4963,6 @@
     "period_years": 1,
     "currentValue": 3.62,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 4.33
-      },
       {
         "date": "2025-07-15",
         "value": 4.33
@@ -6414,6 +6406,18 @@
       {
         "date": "2026-07-10",
         "value": 3.62
+      },
+      {
+        "date": "2026-07-11",
+        "value": 3.62
+      },
+      {
+        "date": "2026-07-12",
+        "value": 3.62
+      },
+      {
+        "date": "2026-07-13",
+        "value": 3.62
       }
     ]
   },
@@ -6639,12 +6643,8 @@
     "name": "장단기 금리차 (10-2)",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 0.36,
+    "currentValue": 0.4,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 0.53
-      },
       {
         "date": "2025-07-15",
         "value": 0.55
@@ -7640,6 +7640,10 @@
       {
         "date": "2026-07-13",
         "value": 0.36
+      },
+      {
+        "date": "2026-07-14",
+        "value": 0.4
       }
     ]
   },
@@ -7648,12 +7652,8 @@
     "name": "10년물 국채 금리",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 4.56,
+    "currentValue": 4.62,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 4.43
-      },
       {
         "date": "2025-07-15",
         "value": 4.5
@@ -8645,6 +8645,10 @@
       {
         "date": "2026-07-10",
         "value": 4.56
+      },
+      {
+        "date": "2026-07-13",
+        "value": 4.62
       }
     ]
   },
@@ -8653,12 +8657,8 @@
     "name": "2년물 국채 금리",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 4.21,
+    "currentValue": 4.26,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 3.9
-      },
       {
         "date": "2025-07-15",
         "value": 3.95
@@ -9650,6 +9650,10 @@
       {
         "date": "2026-07-10",
         "value": 4.21
+      },
+      {
+        "date": "2026-07-13",
+        "value": 4.26
       }
     ]
   },
@@ -9658,12 +9662,8 @@
     "name": "30년물 국채 금리",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 5.06,
+    "currentValue": 5.1,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 4.97
-      },
       {
         "date": "2025-07-15",
         "value": 5.01
@@ -10655,6 +10655,10 @@
       {
         "date": "2026-07-10",
         "value": 5.06
+      },
+      {
+        "date": "2026-07-13",
+        "value": 5.1
       }
     ]
   },
@@ -10663,12 +10667,8 @@
     "name": "10년물 실질금리(TIPS)",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 2.32,
+    "currentValue": 2.36,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 2.04
-      },
       {
         "date": "2025-07-15",
         "value": 2.09
@@ -11660,6 +11660,10 @@
       {
         "date": "2026-07-10",
         "value": 2.32
+      },
+      {
+        "date": "2026-07-13",
+        "value": 2.36
       }
     ]
   },
@@ -11668,12 +11672,8 @@
     "name": "10년 기대인플레이션(BEI)",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 2.26,
+    "currentValue": 2.25,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 2.39
-      },
       {
         "date": "2025-07-15",
         "value": 2.41
@@ -12669,6 +12669,10 @@
       {
         "date": "2026-07-13",
         "value": 2.26
+      },
+      {
+        "date": "2026-07-14",
+        "value": 2.25
       }
     ]
   },
@@ -12679,10 +12683,6 @@
     "period_years": 1,
     "currentValue": 2.69,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 2.95
-      },
       {
         "date": "2025-07-15",
         "value": 2.95
@@ -13730,6 +13730,10 @@
       {
         "date": "2026-07-10",
         "value": 2.69
+      },
+      {
+        "date": "2026-07-13",
+        "value": 2.69
       }
     ]
   },
@@ -14236,12 +14240,8 @@
     "name": "1년물 국채 금리",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 4.06,
+    "currentValue": 4.12,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 4.08
-      },
       {
         "date": "2025-07-15",
         "value": 4.12
@@ -15233,6 +15233,10 @@
       {
         "date": "2026-07-10",
         "value": 4.06
+      },
+      {
+        "date": "2026-07-13",
+        "value": 4.12
       }
     ]
   },
@@ -15241,12 +15245,8 @@
     "name": "5년물 국채 금리",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 4.3,
+    "currentValue": 4.37,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 3.98
-      },
       {
         "date": "2025-07-15",
         "value": 4.05
@@ -16238,6 +16238,10 @@
       {
         "date": "2026-07-10",
         "value": 4.3
+      },
+      {
+        "date": "2026-07-13",
+        "value": 4.37
       }
     ]
   },
@@ -16246,12 +16250,8 @@
     "name": "20년물 국채 금리",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 5.08,
+    "currentValue": 5.11,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 4.97
-      },
       {
         "date": "2025-07-15",
         "value": 5.02
@@ -17243,6 +17243,10 @@
       {
         "date": "2026-07-10",
         "value": 5.08
+      },
+      {
+        "date": "2026-07-13",
+        "value": 5.11
       }
     ]
   },
@@ -17251,12 +17255,8 @@
     "name": "10년-3개월 금리차",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 0.73,
+    "currentValue": 0.74,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 0.01
-      },
       {
         "date": "2025-07-15",
         "value": 0.08
@@ -18252,6 +18252,10 @@
       {
         "date": "2026-07-13",
         "value": 0.73
+      },
+      {
+        "date": "2026-07-14",
+        "value": 0.74
       }
     ]
   },
@@ -18262,10 +18266,6 @@
     "period_years": 1,
     "currentValue": 120.5046,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 120.2209
-      },
       {
         "date": "2025-07-15",
         "value": 120.5105
@@ -19265,12 +19265,8 @@
     "name": "SOFR 금리",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 3.55,
+    "currentValue": 3.6,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 4.33
-      },
       {
         "date": "2025-07-15",
         "value": 4.37
@@ -20258,6 +20254,10 @@
       {
         "date": "2026-07-10",
         "value": 3.55
+      },
+      {
+        "date": "2026-07-13",
+        "value": 3.6
       }
     ]
   },
@@ -20266,12 +20266,8 @@
     "name": "AAA-10년물 스프레드",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 1.16,
+    "currentValue": 1.14,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 1.07
-      },
       {
         "date": "2025-07-15",
         "value": 1.04
@@ -21259,6 +21255,10 @@
       {
         "date": "2026-07-10",
         "value": 1.16
+      },
+      {
+        "date": "2026-07-13",
+        "value": 1.14
       }
     ]
   },
@@ -21267,12 +21267,8 @@
     "name": "Baa-10년물 스프레드",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 1.58,
+    "currentValue": 1.56,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 1.73
-      },
       {
         "date": "2025-07-15",
         "value": 1.7
@@ -22260,6 +22256,10 @@
       {
         "date": "2026-07-10",
         "value": 1.58
+      },
+      {
+        "date": "2026-07-13",
+        "value": 1.56
       }
     ]
   },
@@ -22268,12 +22268,8 @@
     "name": "5년 기대인플레이션",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 2.31,
+    "currentValue": 2.28,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 2.45
-      },
       {
         "date": "2025-07-15",
         "value": 2.48
@@ -23269,6 +23265,10 @@
       {
         "date": "2026-07-13",
         "value": 2.31
+      },
+      {
+        "date": "2026-07-14",
+        "value": 2.28
       }
     ]
   },
@@ -23277,7 +23277,7 @@
     "name": "CPI (헤드라인)",
     "frequency": "M",
     "period_years": 5,
-    "currentValue": 333.979,
+    "currentValue": 332.568,
     "data": [
       {
         "date": "2021-07-01",
@@ -23510,6 +23510,10 @@
       {
         "date": "2026-05-01",
         "value": 333.979
+      },
+      {
+        "date": "2026-06-01",
+        "value": 332.568
       }
     ]
   },
@@ -23518,7 +23522,7 @@
     "name": "Core CPI (근원)",
     "frequency": "M",
     "period_years": 5,
-    "currentValue": 336.121,
+    "currentValue": 336.065,
     "data": [
       {
         "date": "2021-07-01",
@@ -23751,6 +23755,10 @@
       {
         "date": "2026-05-01",
         "value": 336.121
+      },
+      {
+        "date": "2026-06-01",
+        "value": 336.065
       }
     ]
   },
@@ -24494,7 +24502,7 @@
     "name": "CPI: 에너지",
     "frequency": "M",
     "period_years": 5,
-    "currentValue": 338.639,
+    "currentValue": 319.29,
     "data": [
       {
         "date": "2021-07-01",
@@ -24727,6 +24735,10 @@
       {
         "date": "2026-05-01",
         "value": 338.639
+      },
+      {
+        "date": "2026-06-01",
+        "value": 319.29
       }
     ]
   },
@@ -24735,7 +24747,7 @@
     "name": "CPI: 식음료",
     "frequency": "M",
     "period_years": 5,
-    "currentValue": 345.715,
+    "currentValue": 346.391,
     "data": [
       {
         "date": "2021-07-01",
@@ -24968,6 +24980,10 @@
       {
         "date": "2026-05-01",
         "value": 345.715
+      },
+      {
+        "date": "2026-06-01",
+        "value": 346.391
       }
     ]
   },
@@ -24976,7 +24992,7 @@
     "name": "CPI: 서비스",
     "frequency": "M",
     "period_years": 5,
-    "currentValue": 430.939,
+    "currentValue": 430.915,
     "data": [
       {
         "date": "2021-07-01",
@@ -25209,6 +25225,10 @@
       {
         "date": "2026-05-01",
         "value": 430.939
+      },
+      {
+        "date": "2026-06-01",
+        "value": 430.915
       }
     ]
   },
@@ -25462,12 +25482,8 @@
     "name": "가솔린 소매 가격",
     "frequency": "W",
     "period_years": 1,
-    "currentValue": 3.777,
+    "currentValue": 3.855,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 3.13
-      },
       {
         "date": "2025-07-21",
         "value": 3.121
@@ -25671,6 +25687,10 @@
       {
         "date": "2026-07-06",
         "value": 3.777
+      },
+      {
+        "date": "2026-07-13",
+        "value": 3.855
       }
     ]
   },
@@ -25679,7 +25699,7 @@
     "name": "CPI: 주거비",
     "frequency": "M",
     "period_years": 5,
-    "currentValue": 358.244,
+    "currentValue": 358.413,
     "data": [
       {
         "date": "2021-07-01",
@@ -25912,6 +25932,10 @@
       {
         "date": "2026-05-01",
         "value": 358.244
+      },
+      {
+        "date": "2026-06-01",
+        "value": 358.413
       }
     ]
   },
@@ -25920,7 +25944,7 @@
     "name": "Sticky CPI",
     "frequency": "M",
     "period_years": 5,
-    "currentValue": 0.238615079,
+    "currentValue": 0.0676495,
     "data": [
       {
         "date": "2021-07-01",
@@ -26157,6 +26181,10 @@
       {
         "date": "2026-05-01",
         "value": 0.238615079
+      },
+      {
+        "date": "2026-06-01",
+        "value": 0.0676495
       }
     ]
   },
@@ -26165,7 +26193,7 @@
     "name": "중위 CPI",
     "frequency": "M",
     "period_years": 5,
-    "currentValue": 0.300346084066416,
+    "currentValue": 0.174123999368447,
     "data": [
       {
         "date": "2021-07-01",
@@ -26402,6 +26430,10 @@
       {
         "date": "2026-05-01",
         "value": 0.300346084066416
+      },
+      {
+        "date": "2026-06-01",
+        "value": 0.174123999368447
       }
     ]
   },
@@ -33545,12 +33577,8 @@
     "name": "VIX (공포 지수)",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 15.03,
+    "currentValue": 17.16,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 17.2
-      },
       {
         "date": "2025-07-15",
         "value": 17.38
@@ -34574,6 +34602,10 @@
       {
         "date": "2026-07-10",
         "value": 15.03
+      },
+      {
+        "date": "2026-07-13",
+        "value": 17.16
       }
     ]
   },
@@ -34960,12 +34992,8 @@
     "name": "뉴스 불확실성",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 374.04,
+    "currentValue": 234.73,
     "data": [
-      {
-        "date": "2025-07-14",
-        "value": 379.41
-      },
       {
         "date": "2025-07-15",
         "value": 573.74
@@ -36388,35 +36416,39 @@
       },
       {
         "date": "2026-07-05",
-        "value": 296.51
+        "value": 296.49
       },
       {
         "date": "2026-07-06",
-        "value": 245.69
+        "value": 245.6
       },
       {
         "date": "2026-07-07",
-        "value": 258.78
+        "value": 258.68
       },
       {
         "date": "2026-07-08",
-        "value": 193.36
+        "value": 193.33
       },
       {
         "date": "2026-07-09",
-        "value": 276.13
+        "value": 275.5
       },
       {
         "date": "2026-07-10",
-        "value": 222.34
+        "value": 221.17
       },
       {
         "date": "2026-07-11",
-        "value": 299.72
+        "value": 286.56
       },
       {
         "date": "2026-07-12",
-        "value": 374.04
+        "value": 335.83
+      },
+      {
+        "date": "2026-07-13",
+        "value": 234.73
       }
     ]
   },
