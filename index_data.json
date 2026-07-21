@@ -1011,7 +1011,7 @@
         "id": "NASDAQCOM",
         "name": "NASDAQ",
         "frequency": "D",
-        "currentValue": 25520.24,
+        "currentValue": 25508.07,
         "data": [
             {
                 "date": "2025-07-21",
@@ -2012,6 +2012,10 @@
             {
                 "date": "2026-07-17",
                 "value": 25520.24
+            },
+            {
+                "date": "2026-07-20",
+                "value": 25508.07
             }
         ]
     },
@@ -2019,7 +2023,7 @@
         "id": "NASDAQ100",
         "name": "NASDAQ-100",
         "frequency": "D",
-        "currentValue": 28592.66,
+        "currentValue": 28604.23,
         "data": [
             {
                 "date": "2025-07-21",
@@ -3020,6 +3024,10 @@
             {
                 "date": "2026-07-17",
                 "value": 28592.66
+            },
+            {
+                "date": "2026-07-20",
+                "value": 28604.23
             }
         ]
     },
@@ -3027,7 +3035,7 @@
         "id": "VIXCLS",
         "name": "VIX",
         "frequency": "D",
-        "currentValue": 16.73,
+        "currentValue": 18.77,
         "data": [
             {
                 "date": "2025-07-21",
@@ -4052,6 +4060,10 @@
             {
                 "date": "2026-07-16",
                 "value": 16.73
+            },
+            {
+                "date": "2026-07-17",
+                "value": 18.77
             }
         ]
     },
@@ -4059,7 +4071,7 @@
         "id": "DGS2",
         "name": "US 2Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.16,
+        "currentValue": 4.18,
         "data": [
             {
                 "date": "2025-07-21",
@@ -5052,6 +5064,10 @@
             {
                 "date": "2026-07-16",
                 "value": 4.16
+            },
+            {
+                "date": "2026-07-17",
+                "value": 4.18
             }
         ]
     },
@@ -5059,7 +5075,7 @@
         "id": "DGS10",
         "name": "US 10Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.57,
+        "currentValue": 4.55,
         "data": [
             {
                 "date": "2025-07-21",
@@ -6052,6 +6068,10 @@
             {
                 "date": "2026-07-16",
                 "value": 4.57
+            },
+            {
+                "date": "2026-07-17",
+                "value": 4.55
             }
         ]
     },
@@ -6059,7 +6079,7 @@
         "id": "DGS30",
         "name": "US 30Y Yield",
         "frequency": "Daily",
-        "currentValue": 5.09,
+        "currentValue": 5.06,
         "data": [
             {
                 "date": "2025-07-21",
@@ -7052,6 +7072,10 @@
             {
                 "date": "2026-07-16",
                 "value": 5.09
+            },
+            {
+                "date": "2026-07-17",
+                "value": 5.06
             }
         ]
     },
@@ -9043,7 +9067,7 @@
         "id": "DTWEXBGS",
         "name": "Dollar Index",
         "frequency": "Daily",
-        "currentValue": 120.5046,
+        "currentValue": 120.5315,
         "data": [
             {
                 "date": "2025-07-21",
@@ -10020,6 +10044,26 @@
             {
                 "date": "2026-07-10",
                 "value": 120.5046
+            },
+            {
+                "date": "2026-07-13",
+                "value": 120.7413
+            },
+            {
+                "date": "2026-07-14",
+                "value": 120.4728
+            },
+            {
+                "date": "2026-07-15",
+                "value": 120.3088
+            },
+            {
+                "date": "2026-07-16",
+                "value": 120.331
+            },
+            {
+                "date": "2026-07-17",
+                "value": 120.5315
             }
         ]
     }
