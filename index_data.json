@@ -6,10 +6,6 @@
         "currentValue": 7785.76,
         "data": [
             {
-                "date": "2025-08-15",
-                "value": 6449.8
-            },
-            {
                 "date": "2025-08-18",
                 "value": 6449.15
             },
@@ -1017,10 +1013,6 @@
         "frequency": "D",
         "currentValue": 26729.16,
         "data": [
-            {
-                "date": "2025-08-15",
-                "value": 21622.98
-            },
             {
                 "date": "2025-08-18",
                 "value": 21629.77
@@ -2030,10 +2022,6 @@
         "currentValue": 30046.14,
         "data": [
             {
-                "date": "2025-08-15",
-                "value": 23712.07
-            },
-            {
                 "date": "2025-08-18",
                 "value": 23713.76
             },
@@ -3041,10 +3029,6 @@
         "frequency": "D",
         "currentValue": 14.63,
         "data": [
-            {
-                "date": "2025-08-15",
-                "value": 15.09
-            },
             {
                 "date": "2025-08-18",
                 "value": 14.99
@@ -4078,10 +4062,6 @@
         "currentValue": 4.15,
         "data": [
             {
-                "date": "2025-08-15",
-                "value": 3.75
-            },
-            {
                 "date": "2025-08-18",
                 "value": 3.77
             },
@@ -5081,10 +5061,6 @@
         "frequency": "Daily",
         "currentValue": 4.63,
         "data": [
-            {
-                "date": "2025-08-15",
-                "value": 4.33
-            },
             {
                 "date": "2025-08-18",
                 "value": 4.34
@@ -6086,10 +6062,6 @@
         "currentValue": 5.21,
         "data": [
             {
-                "date": "2025-08-15",
-                "value": 4.92
-            },
-            {
                 "date": "2025-08-18",
                 "value": 4.94
             },
@@ -7090,10 +7062,6 @@
         "currentValue": 84.77,
         "data": [
             {
-                "date": "2025-08-15",
-                "value": 63.78
-            },
-            {
                 "date": "2025-08-18",
                 "value": 64.51
             },
@@ -8081,10 +8049,6 @@
         "frequency": "Daily",
         "currentValue": 93.26,
         "data": [
-            {
-                "date": "2025-08-15",
-                "value": 67.3
-            },
             {
                 "date": "2025-08-18",
                 "value": 68.18
@@ -9089,10 +9053,6 @@
         "frequency": "Daily",
         "currentValue": 119.0649,
         "data": [
-            {
-                "date": "2025-08-15",
-                "value": 120.3377
-            },
             {
                 "date": "2025-08-18",
                 "value": 120.5622
