@@ -1,0 +1,319 @@
+{
+  "managers": [
+    {
+      "id": "berkshire-hathaway",
+      "name": "Berkshire Hathaway",
+      "cik": "0001067983",
+      "category": "Conglomerate",
+      "enabled": true
+    },
+    {
+      "id": "bridgewater-associates",
+      "name": "Bridgewater Associates",
+      "cik": "0001350694",
+      "category": "Macro Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "ark-investment-management",
+      "name": "ARK Investment Management",
+      "cik": "0001697748",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "scion-asset-management",
+      "name": "Scion Asset Management",
+      "cik": "0001649339",
+      "category": "Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "pershing-square-capital-management",
+      "name": "Pershing Square Capital Management",
+      "cik": "0001336528",
+      "category": "Activist Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "appaloosa-management",
+      "name": "Appaloosa Management",
+      "cik": "0001656456",
+      "category": "Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "duquesne-family-office",
+      "name": "Duquesne Family Office",
+      "cik": "0001536411",
+      "category": "Family Office",
+      "enabled": true
+    },
+    {
+      "id": "soros-fund-management",
+      "name": "Soros Fund Management",
+      "cik": "0001029160",
+      "category": "Family Office",
+      "enabled": true
+    },
+    {
+      "id": "renaissance-technologies",
+      "name": "Renaissance Technologies",
+      "cik": "0001037389",
+      "category": "Quant Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "citadel-advisors",
+      "name": "Citadel Advisors",
+      "cik": "0001423053",
+      "category": "Multi-Strategy Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "point72-asset-management",
+      "name": "Point72 Asset Management",
+      "cik": "0001603466",
+      "category": "Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "millennium-management",
+      "name": "Millennium Management",
+      "cik": "0001273087",
+      "category": "Multi-Manager Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "trian-fund-management",
+      "name": "Trian Fund Management",
+      "cik": "0001345471",
+      "category": "Activist Fund",
+      "enabled": true
+    },
+    {
+      "id": "elliott-investment-management",
+      "name": "Elliott Investment Management",
+      "cik": "0001791786",
+      "category": "Activist Fund",
+      "enabled": true
+    },
+    {
+      "id": "icahn-capital",
+      "name": "Icahn Capital LP",
+      "cik": "0000921669",
+      "category": "Activist Fund",
+      "enabled": true
+    },
+    {
+      "id": "third-point",
+      "name": "Third Point LLC",
+      "cik": "0001040273",
+      "category": "Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "baupost-group",
+      "name": "Baupost Group",
+      "cik": "0001061768",
+      "category": "Value Investment",
+      "enabled": true
+    },
+    {
+      "id": "oaktree-capital-management",
+      "name": "Oaktree Capital Management",
+      "cik": "0000949509",
+      "category": "Credit Investment",
+      "enabled": true
+    },
+    {
+      "id": "himalaya-capital",
+      "name": "Himalaya Capital",
+      "cik": "0001709323",
+      "category": "Value Investment",
+      "enabled": true
+    },
+    {
+      "id": "cascade-investment",
+      "name": "Cascade Investment",
+      "cik": "0001166559",
+      "category": "Family Office",
+      "enabled": true
+    },
+    {
+      "id": "blackrock",
+      "name": "BlackRock",
+      "cik": "0001364742",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "vanguard-group",
+      "name": "Vanguard Group",
+      "cik": "0000102909",
+      "category": "Index Fund",
+      "enabled": true
+    },
+    {
+      "id": "state-street-global-advisors",
+      "name": "State Street Global Advisors",
+      "cik": "0000093751",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "fidelity-management-research",
+      "name": "Fidelity Management & Research",
+      "cik": "0000315066",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "jpmorgan-asset-management",
+      "name": "JPMorgan Asset Management",
+      "cik": "0000019617",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "goldman-sachs-asset-management",
+      "name": "Goldman Sachs Asset Management",
+      "cik": "0000886982",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "morgan-stanley-investment-management",
+      "name": "Morgan Stanley Investment Management",
+      "cik": "0000895421",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "bank-of-america",
+      "name": "Bank of America",
+      "cik": "0000070858",
+      "category": "Financial Institution",
+      "enabled": true
+    },
+    {
+      "id": "wells-fargo",
+      "name": "Wells Fargo",
+      "cik": "0000072971",
+      "category": "Financial Institution",
+      "enabled": true
+    },
+    {
+      "id": "northern-trust-asset-management",
+      "name": "Northern Trust Asset Management",
+      "cik": "0000073124",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "bny-mellon-investment-management",
+      "name": "BNY Mellon Investment Management",
+      "cik": "0001390777",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "tiger-global-management",
+      "name": "Tiger Global Management",
+      "cik": "0001167483",
+      "category": "Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "coatue-management",
+      "name": "Coatue Management",
+      "cik": "0001135730",
+      "category": "Technology Investment",
+      "enabled": true
+    },
+    {
+      "id": "t-rowe-price-associates",
+      "name": "T. Rowe Price Associates",
+      "cik": "0000080255",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "invesco",
+      "name": "Invesco Ltd.",
+      "cik": "0000914208",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "wellington-management",
+      "name": "Wellington Management",
+      "cik": "0000902219",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "capital-group",
+      "name": "Capital Group",
+      "cik": "0001358706",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "fisher-asset-management",
+      "name": "Fisher Asset Management",
+      "cik": "0001305227",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "fundsmith",
+      "name": "Fundsmith LLP",
+      "cik": "0001599882",
+      "category": "Long-Term Equity",
+      "enabled": true
+    },
+    {
+      "id": "baillie-gifford",
+      "name": "Baillie Gifford",
+      "cik": "0001088875",
+      "category": "Growth Investment",
+      "enabled": true
+    },
+    {
+      "id": "lone-pine-capital",
+      "name": "Lone Pine Capital",
+      "cik": "0001061165",
+      "category": "Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "de-shaw",
+      "name": "D. E. Shaw & Co.",
+      "cik": "0001009207",
+      "category": "Quant Hedge Fund",
+      "enabled": true
+    },
+    {
+      "id": "aqr-capital-management",
+      "name": "AQR Capital Management",
+      "cik": "0001167557",
+      "category": "Quant Investment",
+      "enabled": true
+    },
+    {
+      "id": "schroders",
+      "name": "Schroders",
+      "cik": "0000921669",
+      "category": "Asset Management",
+      "enabled": true
+    },
+    {
+      "id": "ubs-asset-management",
+      "name": "UBS Asset Management",
+      "cik": "0001610520",
+      "category": "Asset Management",
+      "enabled": true
+    }
+  ]
+}
