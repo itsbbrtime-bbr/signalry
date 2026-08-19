@@ -1,0 +1,971 @@
+{
+  "manager": {
+    "id": "duquesne-family-office",
+    "name": "Duquesne Family Office",
+    "cik": "0001536411",
+    "category": "Family Office"
+  },
+  "filing": {
+    "form": "13F-HR",
+    "accessionNumber": "0001536411-26-000006",
+    "filingDate": "2026-08-14",
+    "reportDate": "2026-06-30"
+  },
+  "dataUpdatedAt": "2026-08-19T13:56:00.303112+00:00",
+  "summary": {
+    "totalHoldings": 95,
+    "totalValue": 5210856000.0
+  },
+  "holdings": [
+    {
+      "issuer": "Natera Inc",
+      "ticker": null,
+      "cusip": "632307104",
+      "value": 864923000.0,
+      "shares": 3186306.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Taiwan Semiconductor Manufac",
+      "ticker": null,
+      "cusip": "874039100",
+      "value": 281613000.0,
+      "shares": 589680.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Stmicroelectronics N V",
+      "ticker": null,
+      "cusip": "861012102",
+      "value": 232375000.0,
+      "shares": 3102880.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Invesco Exchange Traded Fd T",
+      "ticker": null,
+      "cusip": "46137V357",
+      "value": 174684000.0,
+      "shares": 821000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "Insmed Inc",
+      "ticker": null,
+      "cusip": "457669307",
+      "value": 151900000.0,
+      "shares": 1424690.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Ishares Inc",
+      "ticker": null,
+      "cusip": "464286400",
+      "value": 145866000.0,
+      "shares": 4228000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "Insmed Inc",
+      "ticker": null,
+      "cusip": "457669307",
+      "value": 143937000.0,
+      "shares": 1350000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "Ypf Sociedad Anonima",
+      "ticker": null,
+      "cusip": "984245100",
+      "value": 142726000.0,
+      "shares": 3138897.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Amazon Com Inc",
+      "ticker": null,
+      "cusip": "023135106",
+      "value": 129085000.0,
+      "shares": 541600.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Bbb Foods Inc",
+      "ticker": null,
+      "cusip": "G0896C103",
+      "value": 120915000.0,
+      "shares": 2901733.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Alphabet Inc",
+      "ticker": null,
+      "cusip": "02079K305",
+      "value": 120184000.0,
+      "shares": 336300.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Ishares Inc",
+      "ticker": null,
+      "cusip": "464286400",
+      "value": 118548000.0,
+      "shares": 3436170.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Seagate Technology Hldngs Pl",
+      "ticker": null,
+      "cusip": "G7997R103",
+      "value": 117730000.0,
+      "shares": 122000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Fox Corp",
+      "ticker": null,
+      "cusip": "35137L105",
+      "value": 114992000.0,
+      "shares": 2204600.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Amazon Com Inc",
+      "ticker": null,
+      "cusip": "023135106",
+      "value": 109470000.0,
+      "shares": 459300.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "United Airls Hldgs Inc",
+      "ticker": null,
+      "cusip": "910047109",
+      "value": 108084000.0,
+      "shares": 794795.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Sea Ltd",
+      "ticker": null,
+      "cusip": "81141R100",
+      "value": 105404000.0,
+      "shares": 1099905.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Cdw Corp",
+      "ticker": null,
+      "cusip": "12514G108",
+      "value": 104629000.0,
+      "shares": 743950.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Newamsterdam Pharma Company",
+      "ticker": null,
+      "cusip": "N62509109",
+      "value": 104047000.0,
+      "shares": 3070146.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Ishares Tr",
+      "ticker": null,
+      "cusip": "464287655",
+      "value": 99149000.0,
+      "shares": 330000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "Sandisk Corp",
+      "ticker": null,
+      "cusip": "80004C200",
+      "value": 79353000.0,
+      "shares": 34900.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Revolution Medicines Inc",
+      "ticker": null,
+      "cusip": "76155X100",
+      "value": 74835000.0,
+      "shares": 399587.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "State Str Spdr S&P 500 Etf T",
+      "ticker": null,
+      "cusip": "78462F103",
+      "value": 67209000.0,
+      "shares": 90000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "Bitdeer Technologies Group",
+      "ticker": null,
+      "cusip": "G11448100",
+      "value": 64670000.0,
+      "shares": 4074993.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Crh Plc",
+      "ticker": null,
+      "cusip": "G25508105",
+      "value": 59230000.0,
+      "shares": 553555.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Delta Air Lines Inc",
+      "ticker": null,
+      "cusip": "247361702",
+      "value": 56477000.0,
+      "shares": 603000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Tesla Inc",
+      "ticker": null,
+      "cusip": "88160R101",
+      "value": 52996000.0,
+      "shares": 126000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "Fluor Corp",
+      "ticker": null,
+      "cusip": "343412102",
+      "value": 51457000.0,
+      "shares": 982200.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "D R Horton Inc",
+      "ticker": null,
+      "cusip": "23331A109",
+      "value": 48701000.0,
+      "shares": 299000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Coupang Inc",
+      "ticker": null,
+      "cusip": "22266T109",
+      "value": 46334000.0,
+      "shares": 2667485.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Advanced Micro Devices Inc",
+      "ticker": null,
+      "cusip": "007903107",
+      "value": 42348000.0,
+      "shares": 72900.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Palo Alto Networks Inc",
+      "ticker": null,
+      "cusip": "697435105",
+      "value": 39780000.0,
+      "shares": 116650.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Cleveland-Cliffs Inc New",
+      "ticker": null,
+      "cusip": "185899101",
+      "value": 39590000.0,
+      "shares": 4216184.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Hut 8 Corp",
+      "ticker": null,
+      "cusip": "44812J104",
+      "value": 36267000.0,
+      "shares": 314150.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Cdw Corp",
+      "ticker": null,
+      "cusip": "12514G108",
+      "value": 35160000.0,
+      "shares": 250000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "Caris Life Sciences Inc",
+      "ticker": null,
+      "cusip": "142152107",
+      "value": 33759000.0,
+      "shares": 1894450.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Global X Fds",
+      "ticker": null,
+      "cusip": "37950E259",
+      "value": 30019000.0,
+      "shares": 328800.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Fox Corp",
+      "ticker": null,
+      "cusip": "35137L204",
+      "value": 29631000.0,
+      "shares": 632600.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Woodward Inc",
+      "ticker": null,
+      "cusip": "980745103",
+      "value": 28587000.0,
+      "shares": 67194.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Meta Platforms Inc",
+      "ticker": null,
+      "cusip": "30303M102",
+      "value": 28165000.0,
+      "shares": 50000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "Nuvation Bio Inc",
+      "ticker": null,
+      "cusip": "67080N101",
+      "value": 25786000.0,
+      "shares": 4539800.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Protagonist Therapeutics Inc",
+      "ticker": null,
+      "cusip": "74366E102",
+      "value": 25607000.0,
+      "shares": 208900.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Roku Inc",
+      "ticker": null,
+      "cusip": "77543R102",
+      "value": 25425000.0,
+      "shares": 184055.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Cavco Inds Inc Del",
+      "ticker": null,
+      "cusip": "149568107",
+      "value": 24268000.0,
+      "shares": 39500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Adma Biologics Inc",
+      "ticker": null,
+      "cusip": "000899104",
+      "value": 23303000.0,
+      "shares": 2784110.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Hyperliquid Strategies Inc",
+      "ticker": null,
+      "cusip": "44916Y106",
+      "value": 23150000.0,
+      "shares": 2941500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Rambus Inc Del",
+      "ticker": null,
+      "cusip": "750917106",
+      "value": 22964000.0,
+      "shares": 173000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Rhythm Pharmaceuticals Inc",
+      "ticker": null,
+      "cusip": "76243J105",
+      "value": 22608000.0,
+      "shares": 203618.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Champion Homes Inc",
+      "ticker": null,
+      "cusip": "830830105",
+      "value": 22418000.0,
+      "shares": 254400.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Daktronics Inc",
+      "ticker": null,
+      "cusip": "234264109",
+      "value": 21968000.0,
+      "shares": 1123109.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Purecycle Technologies Inc",
+      "ticker": null,
+      "cusip": "74623V103",
+      "value": 21746000.0,
+      "shares": 2681415.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Southern Copper Corp",
+      "ticker": null,
+      "cusip": "84265V105",
+      "value": 21444000.0,
+      "shares": 123060.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Linde Plc",
+      "ticker": null,
+      "cusip": "G54950103",
+      "value": 21380000.0,
+      "shares": 41200.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Entegris Inc",
+      "ticker": null,
+      "cusip": "29362U104",
+      "value": 21277000.0,
+      "shares": 118300.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Teva Pharmaceutical Inds Ltd",
+      "ticker": null,
+      "cusip": "881624209",
+      "value": 21175000.0,
+      "shares": 624999.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Unity Software Inc",
+      "ticker": null,
+      "cusip": "91332U101",
+      "value": 21114000.0,
+      "shares": 738785.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Aeva Technologies Inc",
+      "ticker": null,
+      "cusip": "00835Q202",
+      "value": 20683000.0,
+      "shares": 720175.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Riot Platforms Inc",
+      "ticker": null,
+      "cusip": "767292105",
+      "value": 20666000.0,
+      "shares": 754800.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Qnity Electronics Inc",
+      "ticker": null,
+      "cusip": "74743L100",
+      "value": 20521000.0,
+      "shares": 125655.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Equinix Inc",
+      "ticker": null,
+      "cusip": "29444U700",
+      "value": 19232000.0,
+      "shares": 18450.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Lam Research Corp",
+      "ticker": null,
+      "cusip": "512807306",
+      "value": 18893000.0,
+      "shares": 43600.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Definium Therapeutics Inc",
+      "ticker": null,
+      "cusip": "24477V105",
+      "value": 16774000.0,
+      "shares": 356600.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Belite Bio Inc Sponsored",
+      "ticker": null,
+      "cusip": "07782B104",
+      "value": 16338000.0,
+      "shares": 106100.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Invesco Exchange Traded Fd T",
+      "ticker": null,
+      "cusip": "46137V357",
+      "value": 15830000.0,
+      "shares": 74400.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "10X Genomics Inc",
+      "ticker": null,
+      "cusip": "88025U109",
+      "value": 15455000.0,
+      "shares": 403100.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Wabtec",
+      "ticker": null,
+      "cusip": "929740108",
+      "value": 15258000.0,
+      "shares": 56595.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Eli Lilly & Co",
+      "ticker": null,
+      "cusip": "532457108",
+      "value": 14849000.0,
+      "shares": 12380.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Xenon Pharmaceuticals Inc",
+      "ticker": null,
+      "cusip": "98420N105",
+      "value": 14402000.0,
+      "shares": 238600.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Olema Pharmaceuticals Inc",
+      "ticker": null,
+      "cusip": "68062P106",
+      "value": 12345000.0,
+      "shares": 986827.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Repligen Corp",
+      "ticker": null,
+      "cusip": "759916109",
+      "value": 10560000.0,
+      "shares": 77400.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Rocket Cos Inc",
+      "ticker": null,
+      "cusip": "77311W101",
+      "value": 10272000.0,
+      "shares": 652220.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Baidu Inc",
+      "ticker": null,
+      "cusip": "056752108",
+      "value": 10080000.0,
+      "shares": 88200.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Arm Holdings Plc",
+      "ticker": null,
+      "cusip": "042068205",
+      "value": 9960000.0,
+      "shares": 28090.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Carvana Co",
+      "ticker": null,
+      "cusip": "146869102",
+      "value": 9939000.0,
+      "shares": 151000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Reddit Inc",
+      "ticker": null,
+      "cusip": "75734B100",
+      "value": 9816000.0,
+      "shares": 56550.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Alcoa Corp",
+      "ticker": null,
+      "cusip": "013872106",
+      "value": 9679000.0,
+      "shares": 185640.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Thermo Fisher Scientific Inc",
+      "ticker": null,
+      "cusip": "883556102",
+      "value": 9626000.0,
+      "shares": 19200.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Danaher Corp Del",
+      "ticker": null,
+      "cusip": "235851102",
+      "value": 9581000.0,
+      "shares": 50300.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "F5 Inc",
+      "ticker": null,
+      "cusip": "315616102",
+      "value": 9151000.0,
+      "shares": 22000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Vista Energy S.A.B. De C.V.",
+      "ticker": null,
+      "cusip": "92837L109",
+      "value": 8594000.0,
+      "shares": 134700.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Skeena Res Ltd New",
+      "ticker": null,
+      "cusip": "83056P715",
+      "value": 8003000.0,
+      "shares": 300200.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Jbs N.V.",
+      "ticker": null,
+      "cusip": "N4732M103",
+      "value": 7772000.0,
+      "shares": 655900.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Monte Rosa Therapeutics Inc",
+      "ticker": null,
+      "cusip": "61225M102",
+      "value": 7202000.0,
+      "shares": 297600.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Relay Therapeutics Inc",
+      "ticker": null,
+      "cusip": "75943R102",
+      "value": 6530000.0,
+      "shares": 349000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Dbv Technologies S A Sponsored",
+      "ticker": null,
+      "cusip": "23306J309",
+      "value": 6287000.0,
+      "shares": 383363.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Ccc Intelligent Solutions Hl",
+      "ticker": null,
+      "cusip": "12510Q100",
+      "value": 6042000.0,
+      "shares": 1170900.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Uwm Holdings Corporation",
+      "ticker": null,
+      "cusip": "91823B109",
+      "value": 5915000.0,
+      "shares": 2583000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Navitas Semiconductor Corp",
+      "ticker": null,
+      "cusip": "63942X106",
+      "value": 5575000.0,
+      "shares": 311100.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Solstice Advanced Matls Inc",
+      "ticker": null,
+      "cusip": "83443Q103",
+      "value": 5540000.0,
+      "shares": 62525.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Ftai Aviation Ltd",
+      "ticker": null,
+      "cusip": "G3730V105",
+      "value": 5465000.0,
+      "shares": 20200.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Beam Therapeutics Inc",
+      "ticker": null,
+      "cusip": "07373V105",
+      "value": 5272000.0,
+      "shares": 153600.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Aurora Innovation Inc",
+      "ticker": null,
+      "cusip": "051774107",
+      "value": 4322000.0,
+      "shares": 633700.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Iren Limited",
+      "ticker": null,
+      "cusip": "Q4982L109",
+      "value": 3983000.0,
+      "shares": 87100.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Grupo Financiero Galicia S.A",
+      "ticker": null,
+      "cusip": "399909100",
+      "value": 2977000.0,
+      "shares": 59500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Wave Life Sciences Ltd",
+      "ticker": null,
+      "cusip": "Y95308105",
+      "value": 1005000.0,
+      "shares": 173000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    }
+  ]
+}

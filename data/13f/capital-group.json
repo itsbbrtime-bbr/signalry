@@ -1,0 +1,131 @@
+{
+  "manager": {
+    "id": "capital-group",
+    "name": "Capital Group",
+    "cik": "0001358706",
+    "category": "Asset Management"
+  },
+  "filing": {
+    "form": "13F-HR",
+    "accessionNumber": "0001172661-26-003402",
+    "filingDate": "2026-08-13",
+    "reportDate": "2026-06-30"
+  },
+  "dataUpdatedAt": "2026-08-19T13:56:36.197183+00:00",
+  "summary": {
+    "totalHoldings": 11,
+    "totalValue": 5479746142000.0
+  },
+  "holdings": [
+    {
+      "issuer": "LOAR HOLDINGS INC",
+      "ticker": null,
+      "cusip": "53947R105",
+      "value": 2583569846000.0,
+      "shares": 32050240.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "LITHIA MTRS INC",
+      "ticker": null,
+      "cusip": "536797103",
+      "value": 723475222000.0,
+      "shares": 2490534.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "ticker": null,
+      "cusip": "02079K305",
+      "value": 489773798000.0,
+      "shares": 1370495.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SOMNIGROUP INTERNATIONAL INC",
+      "ticker": null,
+      "cusip": "88023U101",
+      "value": 454624038000.0,
+      "shares": 5798776.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ASBURY AUTOMOTIVE GROUP INC",
+      "ticker": null,
+      "cusip": "043436104",
+      "value": 433426331000.0,
+      "shares": 2155492.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "COUPANG INC",
+      "ticker": null,
+      "cusip": "22266T109",
+      "value": 226122035000.0,
+      "shares": 13017964.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "WILLIS TOWERS WATSON PLC LTD",
+      "ticker": null,
+      "cusip": "G96629103",
+      "value": 188390007000.0,
+      "shares": 720779.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "U HAUL HOLDING COMPANY",
+      "ticker": null,
+      "cusip": "023586506",
+      "value": 187609761000.0,
+      "shares": 3251469.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "META PLATFORMS INC",
+      "ticker": null,
+      "cusip": "30303M102",
+      "value": 183156560000.0,
+      "shares": 325155.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NUVATION BIO INC",
+      "ticker": null,
+      "cusip": "67080N101",
+      "value": 7216463000.0,
+      "shares": 1270504.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "U HAUL HOLDING COMPANY",
+      "ticker": null,
+      "cusip": "023586100",
+      "value": 2382081000.0,
+      "shares": 36401.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    }
+  ]
+}

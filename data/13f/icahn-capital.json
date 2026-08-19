@@ -1,0 +1,201 @@
+{
+  "manager": {
+    "id": "icahn-capital",
+    "name": "Icahn Capital LP",
+    "cik": "0000921669",
+    "category": "Activist Fund"
+  },
+  "filing": {
+    "form": "13F-HR",
+    "accessionNumber": "0001539497-26-002243",
+    "filingDate": "2026-08-14",
+    "reportDate": "2026-06-30"
+  },
+  "dataUpdatedAt": "2026-08-19T13:56:07.579182+00:00",
+  "summary": {
+    "totalHoldings": 18,
+    "totalValue": 8264090525000.0
+  },
+  "holdings": [
+    {
+      "issuer": "Icahn Enterprises LP",
+      "ticker": null,
+      "cusip": "451100101",
+      "value": 2234185830000.0,
+      "shares": 309873208.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "CVR Energy Inc",
+      "ticker": null,
+      "cusip": "12662P108",
+      "value": 1860894131000.0,
+      "shares": 67570593.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Icahn Enterprises LP",
+      "ticker": null,
+      "cusip": "451100101",
+      "value": 952613838000.0,
+      "shares": 132123972.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Icahn Enterprises LP",
+      "ticker": null,
+      "cusip": "451100101",
+      "value": 612880751000.0,
+      "shares": 85004265.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Icahn Enterprises LP",
+      "ticker": null,
+      "cusip": "451100101",
+      "value": 492500377000.0,
+      "shares": 68307958.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "CVR Partners, LP",
+      "ticker": null,
+      "cusip": "126633205",
+      "value": 433880160000.0,
+      "shares": 3892000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Centuri Holdings, Inc.",
+      "ticker": null,
+      "cusip": "155923105",
+      "value": 433521971000.0,
+      "shares": 14336044.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "International Flavors and Fragrances Inc.",
+      "ticker": null,
+      "cusip": "459506101",
+      "value": 338665500000.0,
+      "shares": 4275000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Icahn Enterprises LP",
+      "ticker": null,
+      "cusip": "451100101",
+      "value": 166435207000.0,
+      "shares": 23083940.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "EchoStar Corporation",
+      "ticker": null,
+      "cusip": "278768106",
+      "value": 142561013000.0,
+      "shares": 1404542.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "JetBlue Airways Corp.",
+      "ticker": null,
+      "cusip": "477143101",
+      "value": 118371366000.0,
+      "shares": 20658179.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "CVR Energy Inc",
+      "ticker": null,
+      "cusip": "12662P108",
+      "value": 100005506000.0,
+      "shares": 3631282.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Monro, Inc.",
+      "ticker": null,
+      "cusip": "610236101",
+      "value": 86894384000.0,
+      "shares": 5078573.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Caesars Entertainment, Inc.",
+      "ticker": null,
+      "cusip": "12769G100",
+      "value": 73642490000.0,
+      "shares": 2440109.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "SandRidge Energy, Inc.",
+      "ticker": null,
+      "cusip": "80007P869",
+      "value": 69252220000.0,
+      "shares": 5054907.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "American Electric Power Company",
+      "ticker": null,
+      "cusip": "025537101",
+      "value": 59472675000.0,
+      "shares": 434710.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "Bausch Plus Lomb Corp.",
+      "ticker": null,
+      "cusip": "071705107",
+      "value": 57960000000.0,
+      "shares": 3500000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "CVR Partners, LP",
+      "ticker": null,
+      "cusip": "126633205",
+      "value": 30353106000.0,
+      "shares": 272274.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    }
+  ]
+}

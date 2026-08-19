@@ -1,0 +1,1011 @@
+{
+  "manager": {
+    "id": "fundsmith",
+    "name": "Fundsmith LLP",
+    "cik": "0001599882",
+    "category": "Long-Term Equity"
+  },
+  "filing": {
+    "form": "13F-HR",
+    "accessionNumber": "0001213900-26-088652",
+    "filingDate": "2026-08-13",
+    "reportDate": "2026-06-30"
+  },
+  "dataUpdatedAt": "2026-08-19T13:56:38.511472+00:00",
+  "summary": {
+    "totalHoldings": 99,
+    "totalValue": 1059428235000.0
+  },
+  "holdings": [
+    {
+      "issuer": "UNITED HEALTH GROUP INC",
+      "ticker": null,
+      "cusip": "91324P102",
+      "value": 38902968000.0,
+      "shares": 93600.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CVS HEALTH CORP",
+      "ticker": null,
+      "cusip": "126650100",
+      "value": 28901240000.0,
+      "shares": 279374.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ASTRAZENECA PLC",
+      "ticker": null,
+      "cusip": "G0593M107",
+      "value": 28480798000.0,
+      "shares": 151500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MERCK & CO INC",
+      "ticker": null,
+      "cusip": "58933Y105",
+      "value": 27434750000.0,
+      "shares": 213500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "LILLY ELI & CO",
+      "ticker": null,
+      "cusip": "532457108",
+      "value": 26765280000.0,
+      "shares": 22315.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ABBVIE INC",
+      "ticker": null,
+      "cusip": "00287Y109",
+      "value": 24352461000.0,
+      "shares": 96775.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALIGNMENT HEALTHCARE INC",
+      "ticker": null,
+      "cusip": "01625V104",
+      "value": 23740546000.0,
+      "shares": 997083.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "EDWARDS LIFESCIENCES CORP",
+      "ticker": null,
+      "cusip": "28176E108",
+      "value": 23519600000.0,
+      "shares": 260000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "GILEAD SCIENCES INC",
+      "ticker": null,
+      "cusip": "375558103",
+      "value": 22520105000.0,
+      "shares": 178250.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "JAZZ PHARMACEUTICALS PLC",
+      "ticker": null,
+      "cusip": "G50871105",
+      "value": 21070417000.0,
+      "shares": 87440.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BIOGEN INC",
+      "ticker": null,
+      "cusip": "09062X103",
+      "value": 20493291000.0,
+      "shares": 94850.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "STRYKER CORPORATION",
+      "ticker": null,
+      "cusip": "863667101",
+      "value": 20464600000.0,
+      "shares": 65000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BOSTON SCIENTIFIC CORP",
+      "ticker": null,
+      "cusip": "101137107",
+      "value": 19227340000.0,
+      "shares": 450500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "JOHNSON & JOHNSON",
+      "ticker": null,
+      "cusip": "478160104",
+      "value": 18412825000.0,
+      "shares": 72500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "GUARDANT HEALTH INC",
+      "ticker": null,
+      "cusip": "40131M109",
+      "value": 17253450000.0,
+      "shares": 115000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "REGENERON PHARMACEUTICALS",
+      "ticker": null,
+      "cusip": "75886F107",
+      "value": 17078761000.0,
+      "shares": 27390.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "GLAUKOS CORP",
+      "ticker": null,
+      "cusip": "377322102",
+      "value": 16631440000.0,
+      "shares": 119000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BIOMARIN PHARMACEUTICAL INC",
+      "ticker": null,
+      "cusip": "09061G101",
+      "value": 16622410000.0,
+      "shares": 290500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NURIX THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "67080M103",
+      "value": 16599905000.0,
+      "shares": 684250.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NATERA INC",
+      "ticker": null,
+      "cusip": "632307104",
+      "value": 16572022000.0,
+      "shares": 61050.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MIRUM PHARMACEUTICALS INC",
+      "ticker": null,
+      "cusip": "604749101",
+      "value": 16296729000.0,
+      "shares": 139205.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "INSMED INC",
+      "ticker": null,
+      "cusip": "457669307",
+      "value": 16201975000.0,
+      "shares": 151960.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "TENET HEALTHCARE CORP",
+      "ticker": null,
+      "cusip": "88033G407",
+      "value": 15939216000.0,
+      "shares": 85200.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "THERMO FISHER SCIENTIFIC INC",
+      "ticker": null,
+      "cusip": "883556102",
+      "value": 15832949000.0,
+      "shares": 31580.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CENTENE CORP DEL",
+      "ticker": null,
+      "cusip": "15135B101",
+      "value": 15662360000.0,
+      "shares": 244000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "AXSOME THERAPEUTICS INC.",
+      "ticker": null,
+      "cusip": "05464T104",
+      "value": 15432748000.0,
+      "shares": 63050.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "DANAHER CORPORATION",
+      "ticker": null,
+      "cusip": "235851102",
+      "value": 15286401000.0,
+      "shares": 80252.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "VERTEX PHARMACEUTICALS INC",
+      "ticker": null,
+      "cusip": "92532F100",
+      "value": 15242160000.0,
+      "shares": 30685.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ANTERIS TECHNOLOGIES GLOBAL",
+      "ticker": null,
+      "cusip": "03675P102",
+      "value": 15155456000.0,
+      "shares": 1538625.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NEUROCRINE BIOSCIENCES INC",
+      "ticker": null,
+      "cusip": "64125C109",
+      "value": 14467213000.0,
+      "shares": 85841.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "PENNANT GROUP INC",
+      "ticker": null,
+      "cusip": "70805E109",
+      "value": 13725853000.0,
+      "shares": 371471.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "INTUITIVE SURGICAL INC",
+      "ticker": null,
+      "cusip": "46120E602",
+      "value": 13719960000.0,
+      "shares": 34500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ELEVANCE HEALTH INC",
+      "ticker": null,
+      "cusip": "036752103",
+      "value": 13496877000.0,
+      "shares": 34900.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "LIVANOVA PLC",
+      "ticker": null,
+      "cusip": "G5509L101",
+      "value": 13485720000.0,
+      "shares": 164000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CENCORA INC",
+      "ticker": null,
+      "cusip": "03073E105",
+      "value": 13237238000.0,
+      "shares": 46778.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CHARLES RIV LABS INTL INC",
+      "ticker": null,
+      "cusip": "159864107",
+      "value": 12972388000.0,
+      "shares": 57200.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "IDEAYA Biosciences Inc",
+      "ticker": null,
+      "cusip": "45166A102",
+      "value": 12813426000.0,
+      "shares": 343800.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MCKESSON CORP",
+      "ticker": null,
+      "cusip": "58155Q103",
+      "value": 12505180000.0,
+      "shares": 16550.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SYNDAX PHARMACEUTICALS INC",
+      "ticker": null,
+      "cusip": "87164F105",
+      "value": 12247065000.0,
+      "shares": 560250.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BRIGHTSPRING HEALTH SVCS INC",
+      "ticker": null,
+      "cusip": "10950A106",
+      "value": 11569587000.0,
+      "shares": 165896.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MEDTRONIC PLC",
+      "ticker": null,
+      "cusip": "G5960L103",
+      "value": 11343350000.0,
+      "shares": 145000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MINERALYS THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "603170101",
+      "value": 11233690000.0,
+      "shares": 416371.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "OSCAR HEALTH INC",
+      "ticker": null,
+      "cusip": "687793109",
+      "value": 11179840000.0,
+      "shares": 392000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ROYALTY PHARMA PLC",
+      "ticker": null,
+      "cusip": "G7709Q104",
+      "value": 11045790000.0,
+      "shares": 197000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "DEXCOM INC",
+      "ticker": null,
+      "cusip": "252131107",
+      "value": 10776000000.0,
+      "shares": 160000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALIGN TECHNOLOGY INC",
+      "ticker": null,
+      "cusip": "016255101",
+      "value": 10625580000.0,
+      "shares": 63000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SPYRE THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "00773J202",
+      "value": 10591454000.0,
+      "shares": 119300.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "RELAY THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "75943R102",
+      "value": 10589860000.0,
+      "shares": 566000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ARROWHEAD PHARMACEUTICALS IN",
+      "ticker": null,
+      "cusip": "04280A100",
+      "value": 10433280000.0,
+      "shares": 128000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "AGILENT TECHNOLOGIES INC",
+      "ticker": null,
+      "cusip": "00846U101",
+      "value": 9962250000.0,
+      "shares": 75000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NEKTAR THERAPEUTICS",
+      "ticker": null,
+      "cusip": "640268306",
+      "value": 9860662000.0,
+      "shares": 141250.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALKERMES PLC",
+      "ticker": null,
+      "cusip": "G01767105",
+      "value": 9706174000.0,
+      "shares": 185250.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ABBOTT LABORATORIES",
+      "ticker": null,
+      "cusip": "002824100",
+      "value": 8711040000.0,
+      "shares": 96000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "DIANTHUS THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "252828108",
+      "value": 8395660000.0,
+      "shares": 86127.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "PROCEPT BIOROBOTICS CORP",
+      "ticker": null,
+      "cusip": "74276L105",
+      "value": 7790100000.0,
+      "shares": 345000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "STRUCTURE THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "86366E106",
+      "value": 7787517000.0,
+      "shares": 145100.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ORUKA THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "687604108",
+      "value": 7613600000.0,
+      "shares": 80000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ENCOMPASS HEALTH CORP",
+      "ticker": null,
+      "cusip": "29261A100",
+      "value": 7506504000.0,
+      "shares": 74263.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MOONLAKE IMMUNOTHERAPEUTICS",
+      "ticker": null,
+      "cusip": "61559X104",
+      "value": 7492056000.0,
+      "shares": 384800.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "IOVANCE BIOTHERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "462260100",
+      "value": 7094160000.0,
+      "shares": 1705327.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BRIDGEBIO PHARMA INC",
+      "ticker": null,
+      "cusip": "10806X102",
+      "value": 6785128000.0,
+      "shares": 91100.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "KURA ONCOLOGY INC",
+      "ticker": null,
+      "cusip": "50127T109",
+      "value": 6488755000.0,
+      "shares": 591500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "INSULET CORP",
+      "ticker": null,
+      "cusip": "45784P101",
+      "value": 6394500000.0,
+      "shares": 42000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ERASCA INC",
+      "ticker": null,
+      "cusip": "29479A108",
+      "value": 6393680000.0,
+      "shares": 349000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "KRYSTAL BIOTECH INC",
+      "ticker": null,
+      "cusip": "501147102",
+      "value": 6067513000.0,
+      "shares": 16325.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "STEVANATO GROUP S P A",
+      "ticker": null,
+      "cusip": "T9224W109",
+      "value": 5528914000.0,
+      "shares": 305972.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ASTRANA HEALTH INC",
+      "ticker": null,
+      "cusip": "03763A207",
+      "value": 5517592000.0,
+      "shares": 118888.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CARDINAL HEALTH INC",
+      "ticker": null,
+      "cusip": "14149Y108",
+      "value": 5345100000.0,
+      "shares": 22500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALNYLAM PHARMACEUTICALS INC",
+      "ticker": null,
+      "cusip": "02043Q107",
+      "value": 5177716000.0,
+      "shares": 17200.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MOLINA HEALTHCARE INC",
+      "ticker": null,
+      "cusip": "60855R100",
+      "value": 4998696000.0,
+      "shares": 21857.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "VIKING THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "92686J106",
+      "value": 4993280000.0,
+      "shares": 128000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "THE CIGNA GROUP",
+      "ticker": null,
+      "cusip": "125523100",
+      "value": 4796832000.0,
+      "shares": 17400.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "IONIS PHARMACEUTICALS INC",
+      "ticker": null,
+      "cusip": "462222100",
+      "value": 4749471000.0,
+      "shares": 59900.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "AMN HEALTHCARE SVCS INC",
+      "ticker": null,
+      "cusip": "001744101",
+      "value": 4676364000.0,
+      "shares": 144466.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "DENALI THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "24823R105",
+      "value": 4603880000.0,
+      "shares": 179000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MEDPACE HLDGS INC",
+      "ticker": null,
+      "cusip": "58506Q109",
+      "value": 4501515000.0,
+      "shares": 8500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MADRIGAL PHARMACEUTICALS INC",
+      "ticker": null,
+      "cusip": "558868105",
+      "value": 4322447000.0,
+      "shares": 8050.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "AMGEN INC",
+      "ticker": null,
+      "cusip": "031162100",
+      "value": 4309228000.0,
+      "shares": 11900.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SIONNA THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "829401108",
+      "value": 4271429000.0,
+      "shares": 97100.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ASCENDIS PHARMA A/S",
+      "ticker": null,
+      "cusip": "K08588103",
+      "value": 4000800000.0,
+      "shares": 15000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "COOPER COS INC",
+      "ticker": null,
+      "cusip": "216648501",
+      "value": 3872340000.0,
+      "shares": 54000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "WAYSTAR HLDG CORP",
+      "ticker": null,
+      "cusip": "946784105",
+      "value": 3665960000.0,
+      "shares": 178566.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MBX BIOSCIENCES INC",
+      "ticker": null,
+      "cusip": "55287L101",
+      "value": 3422400000.0,
+      "shares": 62000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "VERICEL CORP",
+      "ticker": null,
+      "cusip": "92346J108",
+      "value": 3114300000.0,
+      "shares": 70000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "VEEVA SYS INC",
+      "ticker": null,
+      "cusip": "922475108",
+      "value": 3070231000.0,
+      "shares": 17300.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BICARA THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "055477103",
+      "value": 2617173000.0,
+      "shares": 88150.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "STERIS PLC",
+      "ticker": null,
+      "cusip": "G8473T100",
+      "value": 2421555000.0,
+      "shares": 11500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "OCULAR THERAPEUTIX INC",
+      "ticker": null,
+      "cusip": "67576A100",
+      "value": 2209500000.0,
+      "shares": 225000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "STOKE THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "86150R107",
+      "value": 2110440000.0,
+      "shares": 64500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "XENON PHARMACEUTICALS INC",
+      "ticker": null,
+      "cusip": "98420N105",
+      "value": 2006970000.0,
+      "shares": 33250.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "DOXIMITY INC",
+      "ticker": null,
+      "cusip": "26622P107",
+      "value": 1578459000.0,
+      "shares": 76107.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "PRIVIA HEALTH GROUP INC",
+      "ticker": null,
+      "cusip": "74276R102",
+      "value": 1286500000.0,
+      "shares": 50000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NOVOCURE LTD",
+      "ticker": null,
+      "cusip": "G6674U108",
+      "value": 1060500000.0,
+      "shares": 70000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MINIMED GROUP INC",
+      "ticker": null,
+      "cusip": "60365F109",
+      "value": 822250000.0,
+      "shares": 55000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALPHATEC HLDGS INC",
+      "ticker": null,
+      "cusip": "02081G201",
+      "value": 735250000.0,
+      "shares": 85000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "AGILON HEALTH INC",
+      "ticker": null,
+      "cusip": "00857U206",
+      "value": 535900000.0,
+      "shares": 5000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "10X GENOMICS INC",
+      "ticker": null,
+      "cusip": "88025U109",
+      "value": 325890000.0,
+      "shares": 8500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "TANDEM DIABETES CARE INC",
+      "ticker": null,
+      "cusip": "875372203",
+      "value": 301800000.0,
+      "shares": 20000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "TG THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "88322Q108",
+      "value": 274700000.0,
+      "shares": 5000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    }
+  ]
+}
