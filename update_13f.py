@@ -1,6 +1,7 @@
 import json
 import time
 import requests
+import os
 
 from pathlib import Path
 from datetime import datetime, timezone
@@ -22,7 +23,7 @@ OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 # SEC에서는 식별 가능한 User-Agent 사용을 권장
 # 반드시 실제 앱 이름과 연락 가능한 이메일로 변경
 HEADERS = {
-    "User-Agent": "MyInvestmentApp contact@example.com",
+    "User-Agent": os.environ["SEC_USER_AGENT"],
     "Accept-Encoding": "gzip, deflate",
 }
 
