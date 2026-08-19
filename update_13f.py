@@ -14,7 +14,7 @@ from xml.etree import ElementTree as ET
 
 BASE_DIR = Path(__file__).resolve().parent
 
-MANAGERS_FILE = BASE_DIR / "config" / "managers.json"
+MANAGERS_FILE = BASE_DIR / "managers.json"
 OUTPUT_DIR = BASE_DIR / "data" / "13f"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
