@@ -12,7 +12,7 @@ from xml.etree import ElementTree as ET
 # CONFIG
 # ============================================================
 
-BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = Path(__file__).resolve().parent
 
 MANAGERS_FILE = BASE_DIR / "config" / "managers.json"
 OUTPUT_DIR = BASE_DIR / "data" / "13f"
