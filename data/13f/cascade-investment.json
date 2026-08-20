@@ -1,0 +1,261 @@
+{
+  "manager": {
+    "id": "cascade-investment",
+    "name": "Cascade Investment",
+    "cik": "0001166559",
+    "category": "Family Office"
+  },
+  "filing": {
+    "form": "13F-HR",
+    "accessionNumber": "0001104659-26-097175",
+    "filingDate": "2026-08-14",
+    "reportDate": "2026-06-30"
+  },
+  "dataUpdatedAt": "2026-08-20T12:53:28.588380+00:00",
+  "summary": {
+    "totalHoldings": 24,
+    "totalValue": 34424791932000.0
+  },
+  "holdings": [
+    {
+      "issuer": "BERKSHIRE HATHAWAY INC DEL",
+      "ticker": "BRK/B",
+      "cusip": "084670702",
+      "value": 7350651039000.0,
+      "shares": 14689844.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CATERPILLAR INC",
+      "ticker": "CAT",
+      "cusip": "149123101",
+      "value": 6765963549000.0,
+      "shares": 6353614.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CANADIAN NATL RY CO",
+      "ticker": "CNR",
+      "cusip": "136375102",
+      "value": 6179825963000.0,
+      "shares": 51826786.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "WASTE MGMT INC DEL",
+      "ticker": "WM",
+      "cusip": "94106L109",
+      "value": 5955519423000.0,
+      "shares": 26720744.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "DEERE & CO",
+      "ticker": "DE",
+      "cusip": "244199105",
+      "value": 2256551587000.0,
+      "shares": 3557378.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ECOLAB INC",
+      "ticker": "ECL",
+      "cusip": "278865100",
+      "value": 1453799239000.0,
+      "shares": 5218044.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "WALMART INC",
+      "ticker": "WMT",
+      "cusip": "931142103",
+      "value": 950305425000.0,
+      "shares": 8390477.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "FEDEX CORP",
+      "ticker": "FDX",
+      "cusip": "31428X106",
+      "value": 746615273000.0,
+      "shares": 2384362.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "COCA-COLA FEMSA SAB DE CV",
+      "ticker": "KOF",
+      "cusip": "191241108",
+      "value": 660313894000.0,
+      "shares": 6214719.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "HOME DEPOT INC",
+      "ticker": "HD",
+      "cusip": "437076102",
+      "value": 352680000000.0,
+      "shares": 1000000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "WASTE CONNECTIONS INC",
+      "ticker": "WCN",
+      "cusip": "94106B101",
+      "value": 339910081000.0,
+      "shares": 2039175.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MADISON SQUARE GRDN SPRT COR",
+      "ticker": "MSGS",
+      "cusip": "55825T103",
+      "value": 238052427000.0,
+      "shares": 592406.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "FEDEX FGHT HLDG CO INC",
+      "ticker": null,
+      "cusip": "314352105",
+      "value": 180019331000.0,
+      "shares": 1192181.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "COUPANG INC",
+      "ticker": "CPNG",
+      "cusip": "22266T109",
+      "value": 160638542000.0,
+      "shares": 9248045.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "WEST PHARMACEUTICAL SVSC INC",
+      "ticker": "WST",
+      "cusip": "955306105",
+      "value": 159575500000.0,
+      "shares": 444500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ANHEUSER BUSCH INBEV SA NV",
+      "ticker": "BUD",
+      "cusip": "03524A108",
+      "value": 140327200000.0,
+      "shares": 1703000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "PACCAR INC",
+      "ticker": "PCAR",
+      "cusip": "693718108",
+      "value": 120120000000.0,
+      "shares": 1000000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SCHRODINGER INC",
+      "ticker": null,
+      "cusip": "80810D103",
+      "value": 113452040000.0,
+      "shares": 6981664.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MCDONALDS CORP",
+      "ticker": "MCD",
+      "cusip": "580135101",
+      "value": 90526819000.0,
+      "shares": 334900.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "DANAHER CORP DEL",
+      "ticker": "DHR",
+      "cusip": "235851102",
+      "value": 71049040000.0,
+      "shares": 373000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "KRAFT HEINZ CO",
+      "ticker": "KHC",
+      "cusip": "500754106",
+      "value": 58402812000.0,
+      "shares": 2472600.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "HORMEL FOODS CORP",
+      "ticker": "HRL",
+      "cusip": "440452100",
+      "value": 51756898000.0,
+      "shares": 2085290.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ON HLDG AG",
+      "ticker": null,
+      "cusip": "H5919C104",
+      "value": 17710000000.0,
+      "shares": 500000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "VERALTO CORP",
+      "ticker": "VLTO",
+      "cusip": "92338C103",
+      "value": 11025850000.0,
+      "shares": 124333.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    }
+  ]
+}

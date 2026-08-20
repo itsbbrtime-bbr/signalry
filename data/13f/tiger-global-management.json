@@ -1,0 +1,481 @@
+{
+  "manager": {
+    "id": "tiger-global-management",
+    "name": "Tiger Global Management",
+    "cik": "0001167483",
+    "category": "Hedge Fund"
+  },
+  "filing": {
+    "form": "13F-HR",
+    "accessionNumber": "0000919574-26-005427",
+    "filingDate": "2026-08-14",
+    "reportDate": "2026-06-30"
+  },
+  "dataUpdatedAt": "2026-08-20T12:53:54.138339+00:00",
+  "summary": {
+    "totalHoldings": 46,
+    "totalValue": 23981506027000.0
+  },
+  "holdings": [
+    {
+      "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+      "ticker": "TSM",
+      "cusip": "874039100",
+      "value": 2331022991000.0,
+      "shares": 4881008.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "cusip": "023135106",
+      "value": 2307979214000.0,
+      "shares": 9683558.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "cusip": "67066G104",
+      "value": 2240762490000.0,
+      "shares": 11198773.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "ticker": "GOOGL",
+      "cusip": "02079K305",
+      "value": 2074778363000.0,
+      "shares": 5805687.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "META PLATFORMS INC",
+      "ticker": "META",
+      "cusip": "30303M102",
+      "value": 1590269062000.0,
+      "shares": 2823180.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "LAM RESEARCH CORP",
+      "ticker": "LRCX",
+      "cusip": "512807306",
+      "value": 1370837288000.0,
+      "shares": 3163495.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SEA LTD",
+      "ticker": null,
+      "cusip": "81141R100",
+      "value": 1203543536000.0,
+      "shares": 12559152.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "APPLIED MATLS INC",
+      "ticker": "AMAT",
+      "cusip": "038222105",
+      "value": 1180087830000.0,
+      "shares": 1632210.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "GE VERNOVA INC",
+      "ticker": "GEV",
+      "cusip": "36828A101",
+      "value": 936963773000.0,
+      "shares": 797511.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MICROSOFT CORP",
+      "ticker": "MSFT",
+      "cusip": "594918104",
+      "value": 845603887000.0,
+      "shares": 2266913.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CORPAY INC",
+      "ticker": "CPAY",
+      "cusip": "219948106",
+      "value": 716489508000.0,
+      "shares": 2149877.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CEREBRAS SYSTEMS INC",
+      "ticker": null,
+      "cusip": "15675D103",
+      "value": 662779000000.0,
+      "shares": 2999000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BROADCOM INC",
+      "ticker": "AVGO",
+      "cusip": "11135F101",
+      "value": 662596921000.0,
+      "shares": 1754062.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "COUPANG INC",
+      "ticker": "CPNG",
+      "cusip": "22266T109",
+      "value": 633448674000.0,
+      "shares": 36467972.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "INTEL CORP",
+      "ticker": "INTC",
+      "cusip": "458140100",
+      "value": 593803105000.0,
+      "shares": 4252690.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SPOTIFY TECHNOLOGY S A",
+      "ticker": null,
+      "cusip": "L8681T102",
+      "value": 537837279000.0,
+      "shares": 1171427.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "TAKE-TWO INTERACTIVE SOFTWAR",
+      "ticker": "TTWO",
+      "cusip": "874054109",
+      "value": 452300813000.0,
+      "shares": 1809348.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "REDDIT INC",
+      "ticker": "RDDT",
+      "cusip": "75734B100",
+      "value": 438952402000.0,
+      "shares": 2528819.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ADVANCED MICRO DEVICES INC",
+      "ticker": "AMD",
+      "cusip": "007903107",
+      "value": 391955662000.0,
+      "shares": 674727.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BLOCK INC",
+      "ticker": "XYZ",
+      "cusip": "852234103",
+      "value": 347776532000.0,
+      "shares": 4576007.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "APOLLO GLOBAL MGMT INC",
+      "ticker": "APO",
+      "cusip": "03769M106",
+      "value": 322171145000.0,
+      "shares": 2723110.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "ticker": null,
+      "cusip": "G7997R103",
+      "value": 275121500000.0,
+      "shares": 285100.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "VISA INC",
+      "ticker": "V",
+      "cusip": "92826C839",
+      "value": 274024954000.0,
+      "shares": 798697.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MERCADOLIBRE INC",
+      "ticker": "MLB1",
+      "cusip": "58733R102",
+      "value": 259914541000.0,
+      "shares": 153126.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "LIBERTY MEDIA CORP DEL",
+      "ticker": "FWONK",
+      "cusip": "531229755",
+      "value": 216781723000.0,
+      "shares": 2278555.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NU HLDGS LTD",
+      "ticker": null,
+      "cusip": "G6683N103",
+      "value": 147394937000.0,
+      "shares": 11032555.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "WEALTHFRONT CORP",
+      "ticker": "WLTH",
+      "cusip": "947002101",
+      "value": 135502480000.0,
+      "shares": 15156877.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "UNITEDHEALTH GROUP INC",
+      "ticker": "UNH",
+      "cusip": "91324P102",
+      "value": 123629974000.0,
+      "shares": 297452.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CHIME FINL INC",
+      "ticker": "CHYM",
+      "cusip": "16935C109",
+      "value": 108217240000.0,
+      "shares": 5284045.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "EQUIPMENTSHARE COM INC",
+      "ticker": null,
+      "cusip": "29445S100",
+      "value": 90035840000.0,
+      "shares": 4579646.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SHERWIN WILLIAMS CO",
+      "ticker": "SHW",
+      "cusip": "824348106",
+      "value": 88518819000.0,
+      "shares": 257083.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "DANAHER CORP DEL",
+      "ticker": "DHR",
+      "cusip": "235851102",
+      "value": 86858880000.0,
+      "shares": 456000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SERVICENOW INC",
+      "ticker": "NOW",
+      "cusip": "81762P102",
+      "value": 86719591000.0,
+      "shares": 873485.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SPACE EXPLORATION TECHN CORP",
+      "ticker": null,
+      "cusip": "84615Q103",
+      "value": 64072500000.0,
+      "shares": 375000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "WEBULL CORP",
+      "ticker": null,
+      "cusip": "G9572D103",
+      "value": 43841373000.0,
+      "shares": 6724137.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ATRENEW INC",
+      "ticker": "RERE",
+      "cusip": "00138L108",
+      "value": 38046814000.0,
+      "shares": 9831218.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "APPLIED DIGITAL CORP",
+      "ticker": "APLD",
+      "cusip": "038169207",
+      "value": 33010500000.0,
+      "shares": 885000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CIPHER DIGITAL INC",
+      "ticker": "CIFR",
+      "cusip": "17253J106",
+      "value": 22711500000.0,
+      "shares": 927000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CORE SCIENTIFIC INC NEW",
+      "ticker": "CORZ",
+      "cusip": "21874A106",
+      "value": 20907030000.0,
+      "shares": 817000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "cusip": "90353T100",
+      "value": 10909004000.0,
+      "shares": 151178.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "JD.COM INC",
+      "ticker": "JD",
+      "cusip": "47215P106",
+      "value": 5134220000.0,
+      "shares": 201500.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "DOORDASH INC",
+      "ticker": "DASH",
+      "cusip": "25809K105",
+      "value": 4675437000.0,
+      "shares": 25337.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "PONY AI INC",
+      "ticker": "PONY",
+      "cusip": "732908108",
+      "value": 2156495000.0,
+      "shares": 310287.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ACCELERANT HOLDINGS",
+      "ticker": null,
+      "cusip": "G00894108",
+      "value": 879000000.0,
+      "shares": 75000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "GEMINI SPACE STA INC",
+      "ticker": "GEMI",
+      "cusip": "36866J105",
+      "value": 298200000.0,
+      "shares": 70000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MNTN INC",
+      "ticker": "MNTN",
+      "cusip": "55318A108",
+      "value": 184000000.0,
+      "shares": 20000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    }
+  ]
+}

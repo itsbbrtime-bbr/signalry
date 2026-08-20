@@ -1,0 +1,451 @@
+{
+  "manager": {
+    "id": "third-point",
+    "name": "Third Point LLC",
+    "cik": "0001040273",
+    "category": "Hedge Fund"
+  },
+  "filing": {
+    "form": "13F-HR",
+    "accessionNumber": "0001040273-26-000003",
+    "filingDate": "2026-08-14",
+    "reportDate": "2026-06-30"
+  },
+  "dataUpdatedAt": "2026-08-20T12:53:25.325399+00:00",
+  "summary": {
+    "totalHoldings": 43,
+    "totalValue": 4679571988000.0
+  },
+  "holdings": [
+    {
+      "issuer": "WARNER BROS DISCOVERY INC",
+      "ticker": "WBD",
+      "cusip": "934423104",
+      "value": 533200000000.0,
+      "shares": 20000000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "cusip": "023135106",
+      "value": 417095000000.0,
+      "shares": 1750000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "ticker": "GOOGL",
+      "cusip": "02079K305",
+      "value": 366304250000.0,
+      "shares": 1025000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CRH PLC",
+      "ticker": null,
+      "cusip": "G25508105",
+      "value": 234865000000.0,
+      "shares": 2195000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "TELEPHONE & DATA SYS INC",
+      "ticker": "TDS",
+      "cusip": "879433829",
+      "value": 232237750000.0,
+      "shares": 6275000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
+      "ticker": "TSM",
+      "cusip": "874039100",
+      "value": 219682200000.0,
+      "shares": 460000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "LIVE NATION ENTERTAINMENT IN",
+      "ticker": "LYV",
+      "cusip": "538034109",
+      "value": 207829850000.0,
+      "shares": 1135000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "KEYSIGHT TECHNOLOGIES INC",
+      "ticker": "KEYS",
+      "cusip": "49338L103",
+      "value": 204790950000.0,
+      "shares": 585000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SOMNIGROUP INTERNATIONAL INC",
+      "ticker": "TPD",
+      "cusip": "88023U101",
+      "value": 201548290000.0,
+      "shares": 2570769.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BLOCK INC",
+      "ticker": "XYZ",
+      "cusip": "852234103",
+      "value": 194479668000.0,
+      "shares": 2558943.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NORFOLK SOUTHN CORP",
+      "ticker": "NSC",
+      "cusip": "655844108",
+      "value": 188754000000.0,
+      "shares": 600000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "FLEX LTD",
+      "ticker": null,
+      "cusip": "Y2573F102",
+      "value": 166932100000.0,
+      "shares": 1030000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CAPITAL ONE FINL CORP",
+      "ticker": "COF",
+      "cusip": "14040H105",
+      "value": 165511500000.0,
+      "shares": 825000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "HUT 8 CORP",
+      "ticker": "HUT",
+      "cusip": "44812J104",
+      "value": 151810175000.0,
+      "shares": 1315000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CARPENTER TECHNOLOGY CORP",
+      "ticker": "CRS",
+      "cusip": "144285103",
+      "value": 132620600000.0,
+      "shares": 215000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "API GROUP CORP",
+      "ticker": "APG",
+      "cusip": "00187Y100",
+      "value": 121332750000.0,
+      "shares": 2865000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MASTEC INC",
+      "ticker": null,
+      "cusip": "576323109",
+      "value": 120657400000.0,
+      "shares": 290000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "TRANSDIGM GROUP INC",
+      "ticker": "T7D",
+      "cusip": "893641100",
+      "value": 105231160000.0,
+      "shares": 79000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "DANAHER CORP DEL",
+      "ticker": "DHR",
+      "cusip": "235851102",
+      "value": 102859200000.0,
+      "shares": 540000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "UNION PAC CORP",
+      "ticker": "UNP",
+      "cusip": "907818108",
+      "value": 95200000000.0,
+      "shares": 350000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "TTM TECHNOLOGIES INC",
+      "ticker": "TTMI",
+      "cusip": "87305R109",
+      "value": 94445100000.0,
+      "shares": 505000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "PERFORMANCE FOOD GROUP CO",
+      "ticker": "PFGC",
+      "cusip": "71377A103",
+      "value": 75458250000.0,
+      "shares": 675000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "ticker": null,
+      "cusip": "02079K404",
+      "value": 66157000000.0,
+      "shares": 1300000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ASML HLDG NV",
+      "ticker": null,
+      "cusip": "N07059210",
+      "value": 59606160000.0,
+      "shares": 30000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SYSCO CORP",
+      "ticker": "SYY",
+      "cusip": "871829107",
+      "value": 48157226000.0,
+      "shares": 580000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ARES MANAGEMENT CORPORATION",
+      "ticker": "ARES",
+      "cusip": "03990B101",
+      "value": 41741250000.0,
+      "shares": 375000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "SPACE EXPLORATION TECHN CORP",
+      "ticker": null,
+      "cusip": "84615Q103",
+      "value": 30825707000.0,
+      "shares": 180415.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "STATE STR SPDR S&P 500 ETF T",
+      "ticker": "SPY",
+      "cusip": "78462F103",
+      "value": 28800000000.0,
+      "shares": 40000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": "Put"
+    },
+    {
+      "issuer": "STRATA CRITICAL MEDICAL INC",
+      "ticker": "SRTA",
+      "cusip": "092667104",
+      "value": 26350000000.0,
+      "shares": 5000000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "ticker": null,
+      "cusip": "02079K602",
+      "value": 10060000000.0,
+      "shares": 200000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ARS PHARMACEUTICALS INC",
+      "ticker": "SPRY",
+      "cusip": "82835W108",
+      "value": 8010000000.0,
+      "shares": 1000000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "AURORA INNOVATION INC",
+      "ticker": "AUR",
+      "cusip": "051774107",
+      "value": 7041398000.0,
+      "shares": 1032463.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "RIOT PLATFORMS INC",
+      "ticker": "RIOT",
+      "cusip": "767292AB1",
+      "value": 7033950000.0,
+      "shares": 3500000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "HERTZ GLOBAL HLDGS INC",
+      "ticker": "HTZWW",
+      "cusip": "42806J148",
+      "value": 4327300000.0,
+      "shares": 3970000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "FLYEXCLUSIVE INC",
+      "ticker": "FLYX",
+      "cusip": "343928107",
+      "value": 2044000000.0,
+      "shares": 1022000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BAUSCH PLUS LOMB CORP",
+      "ticker": null,
+      "cusip": "071705107",
+      "value": 1407600000.0,
+      "shares": 85000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "CORE SCIENTIFIC INC NEW",
+      "ticker": "CORZ",
+      "cusip": "21874A106",
+      "value": 1381860000.0,
+      "shares": 54000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "EROCK INC",
+      "ticker": null,
+      "cusip": "296013105",
+      "value": 1203935000.0,
+      "shares": 83030.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "APPLIED DIGITAL CORP",
+      "ticker": "APLD",
+      "cusip": "038169207",
+      "value": 820600000.0,
+      "shares": 22000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "LITHIUM ARGENTINA AG",
+      "ticker": "LARCN",
+      "cusip": "53680QAA6",
+      "value": 611750000.0,
+      "shares": 625000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "AURORA INNOVATION INC",
+      "ticker": "AUROW",
+      "cusip": "051774115",
+      "value": 587384000.0,
+      "shares": 1835000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "WOLFSPEED INC",
+      "ticker": "WOLF",
+      "cusip": "97785W106",
+      "value": 482500000.0,
+      "shares": 10000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "FLYEXCLUSIVE INC",
+      "ticker": "FLYX/WS",
+      "cusip": "343928115",
+      "value": 77175000.0,
+      "shares": 367499.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "manager": {
+    "id": "scion-asset-management",
+    "name": "Scion Asset Management",
+    "cik": "0001649339",
+    "category": "Hedge Fund"
+  },
+  "filing": {
+    "form": "13F-HR",
+    "accessionNumber": "0001649339-25-000007",
+    "filingDate": "2025-11-03",
+    "reportDate": "2025-09-30"
+  },
+  "dataUpdatedAt": "2026-08-20T12:53:14.151885+00:00",
+  "summary": {
+    "totalHoldings": 8,
+    "totalValue": 1381198076000.0
+  },
+  "holdings": [
+    {
+      "issuer": "PALANTIR TECHNOLOGIES INC",
+      "ticker": "PLTR",
+      "cusip": "69608A108",
+      "value": 912100000000.0,
+      "shares": 5000000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Put"
+    },
+    {
+      "issuer": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "cusip": "67066G104",
+      "value": 186580000000.0,
+      "shares": 1000000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Put"
+    },
+    {
+      "issuer": "PFIZER INC",
+      "ticker": "PFE",
+      "cusip": "717081103",
+      "value": 152880000000.0,
+      "shares": 6000000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "HALLIBURTON CO",
+      "ticker": "HAL",
+      "cusip": "406216101",
+      "value": 61500000000.0,
+      "shares": 2500000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": "Call"
+    },
+    {
+      "issuer": "MOLINA HEALTHCARE INC",
+      "ticker": "MOH",
+      "cusip": "60855R100",
+      "value": 23920000000.0,
+      "shares": 125000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "LULULEMON ATHLETICA INC",
+      "ticker": "LULU",
+      "cusip": "550021109",
+      "value": 17793000000.0,
+      "shares": 100000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "SLM CORP",
+      "ticker": "SLM",
+      "cusip": "78442P106",
+      "value": 13287895000.0,
+      "shares": 480054.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "BRUKER CORP",
+      "ticker": "BRKR",
+      "cusip": "116794207",
+      "value": 13137181000.0,
+      "shares": 48334.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    }
+  ]
+}
