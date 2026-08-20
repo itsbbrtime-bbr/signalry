@@ -1056,12 +1056,12 @@ def main():
 
     for manager in enabled_managers:
 
-    try:
+        try:
 
-        updated = update_manager(
-            manager,
-            master_mappings
-        )
+            updated = update_manager(
+                manager,
+                master_mappings
+            )
 
         if updated:
 
@@ -1071,41 +1071,41 @@ def main():
 
             skipped_count += 1
 
-    except requests.HTTPError as e:
+        except requests.HTTPError as e:
+    
+            failed_count += 1
 
-        failed_count += 1
+            response = e.response
 
-        response = e.response
+            status_code = (
+                response.status_code
+                if response
+                else "Unknown"
+            )
 
-        status_code = (
-            response.status_code
-            if response
-            else "Unknown"
-        )
+            print(
+                f"❌ HTTP 오류: "
+                f"{manager['name']}"
+            )
 
-        print(
-            f"❌ HTTP 오류: "
-            f"{manager['name']}"
-        )
+            print(
+                f"Status: "
+                f"{status_code}"
+            )
 
-        print(
-            f"Status: "
-            f"{status_code}"
-        )
+        except Exception as e:
 
-    except Exception as e:
+            failed_count += 1
 
-        failed_count += 1
+            print(
+                f"❌ 업데이트 실패: "
+                f"{manager['name']}"
+            )
 
-        print(
-            f"❌ 업데이트 실패: "
-            f"{manager['name']}"
-        )
-
-        print(
-            f"Error: "
-            f"{e}"
-        )
+            print(
+                f"Error: "
+                f"{e}"
+            )
 
     # --------------------------------------------------------
     # RESULT
