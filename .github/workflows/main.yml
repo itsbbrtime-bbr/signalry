@@ -31,9 +31,9 @@ jobs:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           
         run: |
-          #python update_macro.py
-          #python update_fear_greed.py
-          #python update_index.py
+          python update_macro.py
+          python update_fear_greed.py
+          python update_index.py
           python update_13f.py
           
       - name: Commit and Push changes
