@@ -16,9 +16,9 @@ BASE_DIR = Path(__file__).resolve().parent
 
 MANAGERS_FILE = BASE_DIR / "managers.json"
 OUTPUT_DIR = BASE_DIR / "data" / "13f"
-
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+MASTER_MAPPING_FILE = BASE_DIR / "master_mappings.json"
 
 # SEC에서는 식별 가능한 User-Agent 사용을 권장
 # 반드시 실제 앱 이름과 연락 가능한 이메일로 변경
@@ -561,9 +561,15 @@ def parse_number(value):
         return 0
 
 
-def parse_13f(xml_data):
+def parse_13f(
+    xml_data,
+    master_mappings
+):
     """
     13F Information Table XML 파싱
+
+    master_mappings.json을 이용하여
+    CUSIP → Ticker 매핑
     """
 
     root = ET.fromstring(
@@ -571,6 +577,9 @@ def parse_13f(xml_data):
     )
 
     holdings = []
+
+    mapped_count = 0
+    unmapped_cusips = []
 
     for element in root.iter():
 
@@ -589,6 +598,7 @@ def parse_13f(xml_data):
                 "nameOfIssuer",
                 ""
             )
+            .strip()
         )
 
         cusip = (
@@ -596,9 +606,15 @@ def parse_13f(xml_data):
                 "cusip",
                 ""
             )
+            .strip()
+            .upper()
         )
 
-        # SEC 13F value는 보통 $1,000 단위
+        # --------------------------------------------------------
+        # SEC 13F value
+        # 단위: $1,000
+        # --------------------------------------------------------
+
         value = (
             parse_number(
                 values.get("value")
@@ -611,15 +627,50 @@ def parse_13f(xml_data):
         )
 
         # issuer와 CUSIP 모두 없는 비정상 데이터 제외
+
         if not issuer and not cusip:
 
             continue
 
+        # --------------------------------------------------------
+        # CUSIP → Ticker Mapping
+        # --------------------------------------------------------
+
+        mapping = master_mappings.get(
+            cusip,
+            {}
+        )
+
+        ticker = mapping.get(
+            "ticker"
+        )
+
+        # 매핑 성공
+
+        if ticker:
+
+            mapped_count += 1
+
+        # 매핑 실패한 CUSIP 기록
+
+        elif cusip:
+
+            unmapped_cusips.append(
+                {
+                    "cusip": cusip,
+                    "issuer": issuer
+                }
+            )
+
+        # --------------------------------------------------------
+        # Holding 생성
+        # --------------------------------------------------------
+
         holding = {
+
             "issuer": issuer,
 
-            # 13F 원본에는 일반적으로 ticker 없음
-            "ticker": None,
+            "ticker": ticker,
 
             "cusip": cusip,
 
@@ -650,14 +701,96 @@ def parse_13f(xml_data):
             holding
         )
 
+    # --------------------------------------------------------
     # 가치 기준 내림차순 정렬
+    # --------------------------------------------------------
+
     holdings.sort(
         key=lambda x: x["value"],
         reverse=True
     )
 
+    # --------------------------------------------------------
+    # Mapping 결과 출력
+    # --------------------------------------------------------
+
+    print(
+        f"🏷️ Ticker 매핑: "
+        f"{mapped_count}/{len(holdings)}"
+    )
+
+    if unmapped_cusips:
+
+        print(
+            f"⚠️ 미매핑 CUSIP: "
+            f"{len(unmapped_cusips)}개"
+        )
+
+        # 너무 많이 출력되는 것을 방지
+        for item in unmapped_cusips[:10]:
+
+            print(
+                f"   - "
+                f"{item['cusip']} "
+                f"({item['issuer']})"
+            )
+
+        if len(unmapped_cusips) > 10:
+
+            print(
+                f"   ... 외 "
+                f"{len(unmapped_cusips) - 10}개"
+            )
+
     return holdings
 
+# ============================================================
+# MASTER MAPPINGS
+# ============================================================
+
+def load_master_mappings():
+    """
+    master_mappings.json 로드
+
+    구조:
+    {
+        "037833100": {
+            "ticker": "AAPL",
+            "name": "APPLE INC",
+            "cik": "0000320193"
+        }
+    }
+    """
+
+    if not MASTER_MAPPING_FILE.exists():
+
+        raise FileNotFoundError(
+            "master_mappings.json 파일을 찾을 수 없습니다: "
+            f"{MASTER_MAPPING_FILE}"
+        )
+
+    with open(
+        MASTER_MAPPING_FILE,
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        mappings = json.load(f)
+
+    if not isinstance(
+        mappings,
+        dict
+    ):
+        raise ValueError(
+            "master_mappings.json은 dictionary 구조여야 합니다."
+        )
+
+    print(
+        f"📚 Master Mapping 로드 완료: "
+        f"{len(mappings):,}개"
+    )
+
+    return mappings
 
 # ============================================================
 # SAVE DATA
@@ -749,10 +882,10 @@ def save_manager_data(
 # UPDATE ONE MANAGER
 # ============================================================
 
-def update_manager(manager):
-    """
-    단일 운용사의 최신 13F 업데이트
-    """
+def update_manager(
+    manager,
+    master_mappings
+):
 
     manager_id = manager["id"]
 
@@ -768,14 +901,6 @@ def update_manager(manager):
         f"🔍 {name} 확인 중..."
     )
 
-    print(
-        f"CIK: {cik}"
-    )
-
-    # --------------------------------------------------------
-    # 1. 최신 13F 확인
-    # --------------------------------------------------------
-
     latest_filing = get_latest_13f(
         cik
     )
@@ -788,17 +913,9 @@ def update_manager(manager):
 
         return False
 
-    # --------------------------------------------------------
-    # 2. 기존 JSON 확인
-    # --------------------------------------------------------
-
     existing_data = load_existing_data(
         manager_id
     )
-
-    # --------------------------------------------------------
-    # 3. 최신 Filing과 비교
-    # --------------------------------------------------------
 
     if is_already_latest(
         existing_data,
@@ -809,39 +926,11 @@ def update_manager(manager):
             "✅ 최신 데이터 유지 중"
         )
 
-        print(
-            f"Accession: "
-            f"{latest_filing['accessionNumber']}"
-        )
-
         return False
-
-    # --------------------------------------------------------
-    # 새로운 Filing 발견
-    # --------------------------------------------------------
 
     print(
         "🆕 새로운 13F 발견"
     )
-
-    print(
-        f"Form: "
-        f"{latest_filing['form']}"
-    )
-
-    print(
-        f"Accession: "
-        f"{latest_filing['accessionNumber']}"
-    )
-
-    print(
-        f"Report Date: "
-        f"{latest_filing['reportDate']}"
-    )
-
-    # --------------------------------------------------------
-    # 4. Filing index.json 조회
-    # --------------------------------------------------------
 
     index_json = get_filing_index(
         cik,
@@ -850,10 +939,6 @@ def update_manager(manager):
         ]
     )
 
-    # --------------------------------------------------------
-    # 5. Information Table XML 탐색
-    # --------------------------------------------------------
-
     xml_file = find_information_table(
         index_json
     )
@@ -861,8 +946,7 @@ def update_manager(manager):
     if not xml_file:
 
         print(
-            "❌ Information Table XML을 "
-            "찾을 수 없음"
+            "❌ Information Table XML을 찾을 수 없음"
         )
 
         return False
@@ -871,10 +955,6 @@ def update_manager(manager):
         f"📄 XML 파일: "
         f"{xml_file}"
     )
-
-    # --------------------------------------------------------
-    # 6. XML 다운로드
-    # --------------------------------------------------------
 
     xml_data = (
         download_information_table(
@@ -886,22 +966,17 @@ def update_manager(manager):
         )
     )
 
-    # --------------------------------------------------------
-    # 7. XML 파싱
-    # --------------------------------------------------------
+    # ★ master_mappings 전달
 
     holdings = parse_13f(
-        xml_data
+        xml_data,
+        master_mappings
     )
 
     print(
         f"📊 파싱 완료: "
         f"{len(holdings)}개 보유 항목"
     )
-
-    # --------------------------------------------------------
-    # 8. JSON 저장
-    # --------------------------------------------------------
 
     save_manager_data(
         manager,
@@ -936,6 +1011,8 @@ def main():
     # --------------------------------------------------------
 
     managers = load_managers()
+
+    master_mappings = load_master_mappings()
 
     # --------------------------------------------------------
     # 2. 기본 검증
@@ -979,55 +1056,56 @@ def main():
 
     for manager in enabled_managers:
 
-        try:
+    try:
 
-            updated = update_manager(
-                manager
-            )
+        updated = update_manager(
+            manager,
+            master_mappings
+        )
 
-            if updated:
+        if updated:
 
-                updated_count += 1
+            updated_count += 1
 
-            else:
+        else:
 
-                skipped_count += 1
+            skipped_count += 1
 
-        except requests.HTTPError as e:
+    except requests.HTTPError as e:
 
-            failed_count += 1
+        failed_count += 1
 
-            response = e.response
+        response = e.response
 
-            status_code = (
-                response.status_code
-                if response
-                else "Unknown"
-            )
+        status_code = (
+            response.status_code
+            if response
+            else "Unknown"
+        )
 
-            print(
-                f"❌ HTTP 오류: "
-                f"{manager['name']}"
-            )
+        print(
+            f"❌ HTTP 오류: "
+            f"{manager['name']}"
+        )
 
-            print(
-                f"Status: "
-                f"{status_code}"
-            )
+        print(
+            f"Status: "
+            f"{status_code}"
+        )
 
-        except Exception as e:
+    except Exception as e:
 
-            failed_count += 1
+        failed_count += 1
 
-            print(
-                f"❌ 업데이트 실패: "
-                f"{manager['name']}"
-            )
+        print(
+            f"❌ 업데이트 실패: "
+            f"{manager['name']}"
+        )
 
-            print(
-                f"Error: "
-                f"{e}"
-            )
+        print(
+            f"Error: "
+            f"{e}"
+        )
 
     # --------------------------------------------------------
     # RESULT
