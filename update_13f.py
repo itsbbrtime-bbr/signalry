@@ -1063,13 +1063,13 @@ def main():
                 master_mappings
             )
 
-        if updated:
+            if updated:
 
-            updated_count += 1
+                updated_count += 1
 
-        else:
+            else:
 
-            skipped_count += 1
+                skipped_count += 1
 
         except requests.HTTPError as e:
     
