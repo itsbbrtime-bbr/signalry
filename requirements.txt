@@ -1,7 +1,0 @@
-pandas
-numpy
-matplotlib
-yfinance
-requests
-beautifulsoup4
-pandas_datareader
