@@ -41,7 +41,7 @@ jobs:
           BENCHMARK: VOO
           SAVE_CHARTS: "true"
         run: |
-          python main.py > analysis_result.txt 2>&1
+          python stock_analysis.py > analysis_result.txt 2>&1
 
       - name: Print analysis result to Actions log
         run: |
