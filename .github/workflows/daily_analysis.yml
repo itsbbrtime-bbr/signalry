@@ -39,7 +39,7 @@ jobs:
         env:
           TICKER: SOXX
           BENCHMARK: VOO
-          SAVE_CHARTS: "false"
+          SAVE_CHARTS: "true"
         run: |
           python main.py > analysis_result.txt 2>&1
 
