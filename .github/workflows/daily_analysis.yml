@@ -1,0 +1,48 @@
+name: Daily Investment Analysis
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # UTC 기준
+    # 한국시간 오전 7시 = UTC 전날 22시
+    - cron: "0 22 * * 1-5"
+
+jobs:
+  analysis:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run investment analysis
+        run: |
+          python stock_anaylsis.py > analysis_result.txt
+
+      - name: Send email
+        uses: dawidd6/action-send-mail@v6
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+
+          subject: "Daily Investment Analysis"
+          to: ${{ secrets.MAIL_TO }}
+          from: ${{ secrets.MAIL_USERNAME }}
+
+          body: file://analysis_result.txt
