@@ -34,7 +34,7 @@ jobs:
           python update_macro.py
           python update_fear_greed.py
           python update_index.py
-          python update_13f.py
+          # python update_13f.py
           
       - name: Commit and Push changes
         run: |
