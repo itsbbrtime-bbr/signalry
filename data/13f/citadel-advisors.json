@@ -6,15 +6,15 @@
     "category": "Multi-Strategy Hedge Fund"
   },
   "filing": {
-    "form": "13F-HR",
-    "accessionNumber": "0001104659-26-097200",
-    "filingDate": "2026-08-14",
+    "form": "13F-HR/A",
+    "accessionNumber": "0001104659-26-104387",
+    "filingDate": "2026-09-02",
     "reportDate": "2026-06-30"
   },
-  "dataUpdatedAt": "2026-08-20T12:53:19.734414+00:00",
+  "dataUpdatedAt": "2026-09-03T08:25:45.545626+00:00",
   "summary": {
-    "totalHoldings": 16127,
-    "totalValue": 875096281441000.0
+    "totalHoldings": 16122,
+    "totalValue": 875011794337000.0
   },
   "holdings": [
     {
@@ -15406,16 +15406,6 @@
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": "Put"
-    },
-    {
-      "issuer": "CHURCHILL CAP CORP XI",
-      "ticker": null,
-      "cusip": "G2131A108",
-      "value": 53876875000.0,
-      "shares": 3250000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "DFND",
-      "putCall": null
     },
     {
       "issuer": "ACM RESH INC",
@@ -33028,16 +33018,6 @@
       "putCall": null
     },
     {
-      "issuer": "ODYSSEY MARINE EXPL INC",
-      "ticker": null,
-      "cusip": "676118201",
-      "value": 14668411000.0,
-      "shares": 4036680.0,
-      "shareType": "SH",
-      "investmentDiscretion": "DFND",
-      "putCall": null
-    },
-    {
       "issuer": "GEO GROUP INC",
       "ticker": "GEG",
       "cusip": "36162J106",
@@ -37076,16 +37056,6 @@
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": "Put"
-    },
-    {
-      "issuer": "RALLYBIO CORP",
-      "ticker": null,
-      "cusip": "75120L209",
-      "value": 11580810000.0,
-      "shares": 7633807.0,
-      "shareType": "SH",
-      "investmentDiscretion": "DFND",
-      "putCall": null
     },
     {
       "issuer": "SPDR INDEX SHS FDS",
@@ -56763,16 +56733,6 @@
       "cusip": "880890108",
       "value": 4306807000.0,
       "shares": 100862.0,
-      "shareType": "SH",
-      "investmentDiscretion": "DFND",
-      "putCall": null
-    },
-    {
-      "issuer": "PASSAGE BIO INC",
-      "ticker": null,
-      "cusip": "702712209",
-      "value": 4305120000.0,
-      "shares": 2885712.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -152218,16 +152178,6 @@
       "putCall": null
     },
     {
-      "issuer": "CHURCHILL CAP CORP XI",
-      "ticker": null,
-      "cusip": "G2131A108",
-      "value": 57393000.0,
-      "shares": 3289.0,
-      "shareType": "SH",
-      "investmentDiscretion": "DFND",
-      "putCall": null
-    },
-    {
       "issuer": "NERVGEN PHARMA CORP",
       "ticker": null,
       "cusip": "64082X203",
@@ -159948,6 +159898,16 @@
       "putCall": null
     },
     {
+      "issuer": "RALLYBIO CORP",
+      "ticker": null,
+      "cusip": "75120L209",
+      "value": 3520000.0,
+      "shares": 220.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "ABLE VIEW GLOBAL INC",
       "ticker": null,
       "cusip": "G1149B116",
@@ -160206,16 +160166,6 @@
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": "Call"
-    },
-    {
-      "issuer": "PASSAGE BIO INC",
-      "ticker": null,
-      "cusip": "702712209",
-      "value": 2015000.0,
-      "shares": 413.0,
-      "shareType": "SH",
-      "investmentDiscretion": "DFND",
-      "putCall": null
     },
     {
       "issuer": "MILESTONE PHARMACEUTICALS IN",
