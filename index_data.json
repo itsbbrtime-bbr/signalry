@@ -3,7 +3,7 @@
         "id": "SP500",
         "name": "S&P 500",
         "frequency": "D",
-        "currentValue": 7637.76,
+        "currentValue": 7764.7,
         "data": [
             {
                 "date": "2025-09-22",
@@ -1000,6 +1000,14 @@
             {
                 "date": "2026-09-17",
                 "value": 7637.76
+            },
+            {
+                "date": "2026-09-18",
+                "value": 7650.5
+            },
+            {
+                "date": "2026-09-21",
+                "value": 7764.7
             }
         ]
     },
@@ -1007,7 +1015,7 @@
         "id": "NASDAQCOM",
         "name": "NASDAQ",
         "frequency": "D",
-        "currentValue": 26522.55,
+        "currentValue": 27122.09,
         "data": [
             {
                 "date": "2025-09-22",
@@ -2008,6 +2016,10 @@
             {
                 "date": "2026-09-18",
                 "value": 26522.55
+            },
+            {
+                "date": "2026-09-21",
+                "value": 27122.09
             }
         ]
     },
@@ -2015,7 +2027,7 @@
         "id": "NASDAQ100",
         "name": "NASDAQ-100",
         "frequency": "D",
-        "currentValue": 29644.17,
+        "currentValue": 30482.35,
         "data": [
             {
                 "date": "2025-09-22",
@@ -3016,6 +3028,10 @@
             {
                 "date": "2026-09-18",
                 "value": 29644.17
+            },
+            {
+                "date": "2026-09-21",
+                "value": 30482.35
             }
         ]
     },
@@ -3023,7 +3039,7 @@
         "id": "VIXCLS",
         "name": "VIX",
         "frequency": "D",
-        "currentValue": 15.44,
+        "currentValue": 14.81,
         "data": [
             {
                 "date": "2025-09-22",
@@ -4048,6 +4064,10 @@
             {
                 "date": "2026-09-17",
                 "value": 15.44
+            },
+            {
+                "date": "2026-09-18",
+                "value": 14.81
             }
         ]
     },
@@ -4055,7 +4075,7 @@
         "id": "DGS2",
         "name": "US 2Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.67,
+        "currentValue": 4.76,
         "data": [
             {
                 "date": "2025-09-22",
@@ -5048,6 +5068,10 @@
             {
                 "date": "2026-09-17",
                 "value": 4.67
+            },
+            {
+                "date": "2026-09-18",
+                "value": 4.76
             }
         ]
     },
@@ -5055,7 +5079,7 @@
         "id": "DGS10",
         "name": "US 10Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.94,
+        "currentValue": 5.01,
         "data": [
             {
                 "date": "2025-09-22",
@@ -6048,6 +6072,10 @@
             {
                 "date": "2026-09-17",
                 "value": 4.94
+            },
+            {
+                "date": "2026-09-18",
+                "value": 5.01
             }
         ]
     },
@@ -6055,7 +6083,7 @@
         "id": "DGS30",
         "name": "US 30Y Yield",
         "frequency": "Daily",
-        "currentValue": 5.29,
+        "currentValue": 5.34,
         "data": [
             {
                 "date": "2025-09-22",
@@ -7048,6 +7076,10 @@
             {
                 "date": "2026-09-17",
                 "value": 5.29
+            },
+            {
+                "date": "2026-09-18",
+                "value": 5.34
             }
         ]
     },
@@ -9047,7 +9079,7 @@
         "id": "DTWEXBGS",
         "name": "Dollar Index",
         "frequency": "Daily",
-        "currentValue": 118.2126,
+        "currentValue": 119.5133,
         "data": [
             {
                 "date": "2025-09-22",
@@ -10024,6 +10056,26 @@
             {
                 "date": "2026-09-11",
                 "value": 118.2126
+            },
+            {
+                "date": "2026-09-14",
+                "value": 118.6923
+            },
+            {
+                "date": "2026-09-15",
+                "value": 118.8822
+            },
+            {
+                "date": "2026-09-16",
+                "value": 118.9206
+            },
+            {
+                "date": "2026-09-17",
+                "value": 119.3489
+            },
+            {
+                "date": "2026-09-18",
+                "value": 119.5133
             }
         ]
     }
