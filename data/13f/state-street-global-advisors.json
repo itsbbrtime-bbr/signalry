@@ -6,15 +6,15 @@
     "category": "Asset Management"
   },
   "filing": {
-    "form": "13F-HR",
-    "accessionNumber": "0000093751-26-000507",
-    "filingDate": "2026-08-07",
+    "form": "13F-HR/A",
+    "accessionNumber": "0000093751-26-000583",
+    "filingDate": "2026-09-22",
     "reportDate": "2026-06-30"
   },
-  "dataUpdatedAt": "2026-08-20T12:53:35.075670+00:00",
+  "dataUpdatedAt": "2026-09-23T08:58:26.614710+00:00",
   "summary": {
-    "totalHoldings": 4177,
-    "totalValue": 3371239854465000.0
+    "totalHoldings": 4261,
+    "totalValue": 3383260349220000.0
   },
   "holdings": [
     {
@@ -348,7 +348,7 @@
       "putCall": null
     },
     {
-      "issuer": "BANK AMERICA CORP",
+      "issuer": "BANK OF AMER CORP",
       "ticker": "BAC",
       "cusip": "060505104",
       "value": 17081618645000.0,
@@ -988,7 +988,7 @@
       "putCall": null
     },
     {
-      "issuer": "CHUBB LTD SWITZ",
+      "issuer": "CHUBB LIMITED",
       "ticker": null,
       "cusip": "H1467J104",
       "value": 5716716296000.0,
@@ -1248,7 +1248,7 @@
       "putCall": null
     },
     {
-      "issuer": "BANK NEW YORK MELLON CORP",
+      "issuer": "BANK OF NY MELLON CORP",
       "ticker": "BK",
       "cusip": "064058100",
       "value": 4595898131000.0,
@@ -1393,6 +1393,16 @@
       "cusip": "872590104",
       "value": 4196852505000.0,
       "shares": 25021478.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "HONEYWELL INTL INC",
+      "ticker": null,
+      "cusip": "438516205",
+      "value": 4195521043000.0,
+      "shares": 18738370.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -1818,7 +1828,7 @@
       "putCall": null
     },
     {
-      "issuer": "PUBLIC STORAGE OPER CO",
+      "issuer": "PUBLIC STORAGE",
       "ticker": "PSA",
       "cusip": "74460D109",
       "value": 3225687013000.0,
@@ -2028,6 +2038,16 @@
       "putCall": null
     },
     {
+      "issuer": "HONEYWELL AEROSPACE INC",
+      "ticker": null,
+      "cusip": "43849R105",
+      "value": 2945044264000.0,
+      "shares": 13321170.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "ENTERGY CORP NEW",
       "ticker": "ETR",
       "cusip": "29364G103",
@@ -2118,7 +2138,7 @@
       "putCall": null
     },
     {
-      "issuer": "FLEXTRONICS INTL LTD",
+      "issuer": "FLEX LTD",
       "ticker": null,
       "cusip": "Y2573F102",
       "value": 2752659115000.0,
@@ -2788,6 +2808,16 @@
       "putCall": null
     },
     {
+      "issuer": "SPACE EXPLORATION TECHN CORP",
+      "ticker": null,
+      "cusip": "84615Q103",
+      "value": 1858328719000.0,
+      "shares": 10876324.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "PRUDENTIAL FINL INC",
       "ticker": null,
       "cusip": "744320102",
@@ -3048,9 +3078,9 @@
       "putCall": null
     },
     {
-      "issuer": "CARNIVAL CORP",
-      "ticker": "CCL",
-      "cusip": "143658300",
+      "issuer": "CARNIVAL CORP LTD",
+      "ticker": null,
+      "cusip": "G2004J103",
       "value": 1663267118000.0,
       "shares": 58217260.0,
       "shareType": "SH",
@@ -4278,6 +4308,16 @@
       "putCall": null
     },
     {
+      "issuer": "DUPONT DE NEMOURS INC",
+      "ticker": null,
+      "cusip": "26614N201",
+      "value": 942669787000.0,
+      "shares": 6949792.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "HEALTHPEAK PROPERTIES INC",
       "ticker": "DOC",
       "cusip": "42250P103",
@@ -4963,6 +5003,16 @@
       "cusip": "69370C100",
       "value": 733048416000.0,
       "shares": 6452323.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "FEDEX FGHT HLDG CO INC",
+      "ticker": null,
+      "cusip": "314352105",
+      "value": 723747077000.0,
+      "shares": 4793027.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -11848,7 +11898,7 @@
       "putCall": null
     },
     {
-      "issuer": "ALBERTSONS COS INC",
+      "issuer": "ALBERTSONS COMPANIES INC",
       "ticker": "ACI",
       "cusip": "013091103",
       "value": 160572714000.0,
@@ -12598,6 +12648,16 @@
       "putCall": null
     },
     {
+      "issuer": "ALPHABET INC",
+      "ticker": null,
+      "cusip": "02079K602",
+      "value": 145464000000.0,
+      "shares": 2900000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "GAP INC",
       "ticker": "GAP",
       "cusip": "364760108",
@@ -12653,6 +12713,16 @@
       "cusip": "163086101",
       "value": 144845121000.0,
       "shares": 1507277.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "ticker": null,
+      "cusip": "02079K404",
+      "value": 144333000000.0,
+      "shares": 2900000.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -12980,7 +13050,7 @@
     {
       "issuer": "ASCENDIS PHARMA A/S",
       "ticker": null,
-      "cusip": "04351P101",
+      "cusip": "K08588103",
       "value": 137085812000.0,
       "shares": 513969.0,
       "shareType": "SH",
@@ -13678,7 +13748,7 @@
       "putCall": null
     },
     {
-      "issuer": "VERSIGENT LTD",
+      "issuer": "VERSIGENT PLC",
       "ticker": null,
       "cusip": "G9600F104",
       "value": 120508122000.0,
@@ -13878,7 +13948,7 @@
       "putCall": null
     },
     {
-      "issuer": "BITMINE IMMERSION TECNOLOGIE",
+      "issuer": "BITMINE IMMERSION TECHS INC",
       "ticker": "BMNR",
       "cusip": "09175A206",
       "value": 116358163000.0,
@@ -14608,6 +14678,16 @@
       "putCall": null
     },
     {
+      "issuer": "CEREBRAS SYSTEMS INC",
+      "ticker": null,
+      "cusip": "15675D103",
+      "value": 105342523000.0,
+      "shares": 476663.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "CRANE NXT CO",
       "ticker": "CXT",
       "cusip": "224441105",
@@ -14938,7 +15018,7 @@
       "putCall": null
     },
     {
-      "issuer": "IAC INC",
+      "issuer": "PEOPLE INC",
       "ticker": "0J7Q",
       "cusip": "44891N208",
       "value": 99694983000.0,
@@ -15888,7 +15968,7 @@
       "putCall": null
     },
     {
-      "issuer": "DIME CMNTY BANCSHARES INC",
+      "issuer": "DIME COML BANCSHARES INC",
       "ticker": "DCOM",
       "cusip": "25432X102",
       "value": 82729701000.0,
@@ -16198,6 +16278,16 @@
       "putCall": null
     },
     {
+      "issuer": "KEEL INFRASTRUCTURE CORP",
+      "ticker": null,
+      "cusip": "486917107",
+      "value": 78099617000.0,
+      "shares": 13606205.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "TENCENT MUSIC ENTMT GROUP",
       "ticker": "TME",
       "cusip": "88034P109",
@@ -16348,7 +16438,7 @@
       "putCall": null
     },
     {
-      "issuer": "ICON PLC",
+      "issuer": "ICON PUB LTD CO",
       "ticker": null,
       "cusip": "G4705A100",
       "value": 76059445000.0,
@@ -16978,6 +17068,16 @@
       "putCall": null
     },
     {
+      "issuer": "AKAMAI TECHNOLOGIES INC",
+      "ticker": null,
+      "cusip": "00971TAQ4",
+      "value": 66951756000.0,
+      "shares": 45900000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "VERADERMICS INC",
       "ticker": null,
       "cusip": "922967104",
@@ -17348,7 +17448,7 @@
       "putCall": null
     },
     {
-      "issuer": "LENDINGCLUB ISSUANCE TR SER",
+      "issuer": "HAPPEN INC",
       "ticker": "LC",
       "cusip": "52603A208",
       "value": 61021839000.0,
@@ -17588,6 +17688,16 @@
       "putCall": null
     },
     {
+      "issuer": "SUPER MICRO COMPUTER INC",
+      "ticker": null,
+      "cusip": "86800U500",
+      "value": 58219800000.0,
+      "shares": 1140000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "FIRST ADVANTAGE CORP NEW",
       "ticker": "FA",
       "cusip": "31846B108",
@@ -17598,7 +17708,7 @@
       "putCall": null
     },
     {
-      "issuer": "BANK AMERICA CORP",
+      "issuer": "BANK OF AMER CORP",
       "ticker": null,
       "cusip": "060505682",
       "value": 58131815000.0,
@@ -19248,7 +19358,7 @@
       "putCall": null
     },
     {
-      "issuer": "CENTRAIS ELET BRAS SA",
+      "issuer": "AXIA ENERGIA SA",
       "ticker": "AXIA",
       "cusip": "15234Q207",
       "value": 44108233000.0,
@@ -19508,6 +19618,16 @@
       "putCall": null
     },
     {
+      "issuer": "SOUTHERN CO",
+      "ticker": null,
+      "cusip": "842587ED5",
+      "value": 42855498000.0,
+      "shares": 42425000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "ADTRAN HOLDINGS INC",
       "ticker": "ADTN",
       "cusip": "00486H105",
@@ -19534,6 +19654,16 @@
       "value": 42589193000.0,
       "shares": 1422960.0,
       "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "GAMESTOP CORP",
+      "ticker": null,
+      "cusip": "36467WAG4",
+      "value": 42478570000.0,
+      "shares": 41950000.0,
+      "shareType": "PRN",
       "investmentDiscretion": "DFND",
       "putCall": null
     },
@@ -19798,6 +19928,16 @@
       "putCall": null
     },
     {
+      "issuer": "DOORDASH INC",
+      "ticker": null,
+      "cusip": "25809KAB1",
+      "value": 41062120000.0,
+      "shares": 41785000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "BYLINE BANCORP INC",
       "ticker": null,
       "cusip": "124411109",
@@ -19988,6 +20128,16 @@
       "putCall": null
     },
     {
+      "issuer": "SITIME CORP",
+      "ticker": null,
+      "cusip": "82982TAA4",
+      "value": 39328615000.0,
+      "shares": 35500000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "TRIP COM GROUP LTD",
       "ticker": "TCOM",
       "cusip": "89677QAB3",
@@ -20058,7 +20208,7 @@
       "putCall": null
     },
     {
-      "issuer": "FRESH DEL MONTE PRODUCE INC",
+      "issuer": "DEL MONTE CORP",
       "ticker": null,
       "cusip": "G36738105",
       "value": 38953652000.0,
@@ -20074,6 +20224,26 @@
       "value": 38935240000.0,
       "shares": 1389989.0,
       "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "GAMESTOP CORP",
+      "ticker": null,
+      "cusip": "36467WAE9",
+      "value": 38820470000.0,
+      "shares": 38100000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "CLOUDFLARE INC",
+      "ticker": null,
+      "cusip": "18915MAF4",
+      "value": 38725180000.0,
+      "shares": 30550000.0,
+      "shareType": "PRN",
       "investmentDiscretion": "DFND",
       "putCall": null
     },
@@ -20598,6 +20768,16 @@
       "putCall": null
     },
     {
+      "issuer": "UBER TECHNOLOGIES INC",
+      "ticker": null,
+      "cusip": "90353TAS9",
+      "value": 35503350000.0,
+      "shares": 30750000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "ICF INTL INC",
       "ticker": "ICFI",
       "cusip": "44925C103",
@@ -20998,7 +21178,7 @@
       "putCall": null
     },
     {
-      "issuer": "ASGN INC",
+      "issuer": "EVERFORTH INC",
       "ticker": "ASGN",
       "cusip": "00191U102",
       "value": 32970257000.0,
@@ -21388,6 +21568,16 @@
       "putCall": null
     },
     {
+      "issuer": "SUPER MICRO COMPUTER INC",
+      "ticker": null,
+      "cusip": "86800UAF1",
+      "value": 30665250000.0,
+      "shares": 34650000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "SPDR SERIES TRUST",
       "ticker": null,
       "cusip": "78464A490",
@@ -21398,7 +21588,7 @@
       "putCall": null
     },
     {
-      "issuer": "FERROVIAL SE",
+      "issuer": "FERROVIAL NV",
       "ticker": null,
       "cusip": "N3168P101",
       "value": 30590759000.0,
@@ -21433,6 +21623,16 @@
       "cusip": "56565P103",
       "value": 30541056000.0,
       "shares": 852150.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "FIRST TRACKS BIOTHERAPEUTICS",
+      "ticker": null,
+      "cusip": "337185102",
+      "value": 30439468000.0,
+      "shares": 1512896.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -21758,7 +21958,7 @@
       "putCall": null
     },
     {
-      "issuer": "GCI LIBERTY INC",
+      "issuer": "LIBERTY CAP CORP",
       "ticker": "GLIBK",
       "cusip": "36164V800",
       "value": 28975756000.0,
@@ -21914,6 +22114,16 @@
       "value": 28084377000.0,
       "shares": 1039777.0,
       "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "CYBERARK SOFTWARE LTD",
+      "ticker": null,
+      "cusip": "23248VAD7",
+      "value": 27993840000.0,
+      "shares": 16800000.0,
+      "shareType": "PRN",
       "investmentDiscretion": "DFND",
       "putCall": null
     },
@@ -22708,6 +22918,16 @@
       "putCall": null
     },
     {
+      "issuer": "FIRSTENERGY CORP",
+      "ticker": null,
+      "cusip": "337932AT4",
+      "value": 23564169000.0,
+      "shares": 21244000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "OIL DRI CORP AMER",
       "ticker": "ODC",
       "cusip": "677864100",
@@ -23248,6 +23468,16 @@
       "putCall": null
     },
     {
+      "issuer": "MERIT MED SYS INC",
+      "ticker": null,
+      "cusip": "589889AB0",
+      "value": 21343227000.0,
+      "shares": 19610000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "SELECT SECTOR SPDR TR",
       "ticker": "XLU",
       "cusip": "81369Y886",
@@ -23448,6 +23678,16 @@
       "putCall": null
     },
     {
+      "issuer": "MAKEMYTRIP LIMITED MAURITIUS",
+      "ticker": null,
+      "cusip": "56087FAD6",
+      "value": 20527033000.0,
+      "shares": 22525000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "STRATEGY INC",
       "ticker": "MSTR",
       "cusip": "594972AN1",
@@ -23588,7 +23828,7 @@
       "putCall": null
     },
     {
-      "issuer": "FIDELIS INSURANCE HOLDINGS L",
+      "issuer": "PELAGOS INS CAP LTD",
       "ticker": null,
       "cusip": "G3398L118",
       "value": 20081153000.0,
@@ -23688,6 +23928,16 @@
       "putCall": null
     },
     {
+      "issuer": "FIRSTENERGY CORP",
+      "ticker": null,
+      "cusip": "337932AV9",
+      "value": 19677076000.0,
+      "shares": 17420000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "GCM GROSVENOR INC",
       "ticker": "GCMG",
       "cusip": "36831E108",
@@ -23738,7 +23988,7 @@
       "putCall": null
     },
     {
-      "issuer": "EXP WORLD HLDGS INC",
+      "issuer": "AGNT INC",
       "ticker": "EXPI",
       "cusip": "30212W100",
       "value": 19572206000.0,
@@ -23853,6 +24103,16 @@
       "cusip": "890516107",
       "value": 19199540000.0,
       "shares": 484035.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "KAILERA THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "482931102",
+      "value": 19125565000.0,
+      "shares": 868160.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -24008,7 +24268,7 @@
       "putCall": null
     },
     {
-      "issuer": "RUMBLE INC",
+      "issuer": "RUM GROUP INC",
       "ticker": null,
       "cusip": "78137L105",
       "value": 18342438000.0,
@@ -24328,6 +24588,16 @@
       "putCall": null
     },
     {
+      "issuer": "RUBRIK INC.",
+      "ticker": null,
+      "cusip": "781154AD1",
+      "value": 17352235000.0,
+      "shares": 17017000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "SUPER MICRO COMPUTER INC",
       "ticker": null,
       "cusip": "86800UAD6",
@@ -24598,6 +24868,16 @@
       "putCall": null
     },
     {
+      "issuer": "MADISON AIR SOLUTIONS CORP",
+      "ticker": null,
+      "cusip": "55658T105",
+      "value": 16557996000.0,
+      "shares": 424564.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "UNIVERSAL HEALTH RLTY INCOME",
       "ticker": "UHT",
       "cusip": "91359E105",
@@ -24738,7 +25018,7 @@
       "putCall": null
     },
     {
-      "issuer": "MONTROSE ENVIRONMENTAL GROUP",
+      "issuer": "ONTERRIS INC",
       "ticker": "MEG",
       "cusip": "615111101",
       "value": 16144920000.0,
@@ -24808,6 +25088,16 @@
       "putCall": null
     },
     {
+      "issuer": "ALLIANT ENERGY CORP",
+      "ticker": null,
+      "cusip": "018802AE8",
+      "value": 15824140000.0,
+      "shares": 14400000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "DAQO NEW ENERGY CORP",
       "ticker": "DQ",
       "cusip": "23703Q203",
@@ -24844,6 +25134,16 @@
       "value": 15738070000.0,
       "shares": 1077950.0,
       "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "REVOLUTION MEDICINES INC",
+      "ticker": null,
+      "cusip": "76155XAA8",
+      "value": 15724997000.0,
+      "shares": 12500000.0,
+      "shareType": "PRN",
       "investmentDiscretion": "DFND",
       "putCall": null
     },
@@ -25138,6 +25438,16 @@
       "putCall": null
     },
     {
+      "issuer": "TRAVERE THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "89422GAB3",
+      "value": 14916499000.0,
+      "shares": 12700000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "HYLIION HOLDINGS CORP",
       "ticker": null,
       "cusip": "449109107",
@@ -25384,6 +25694,16 @@
       "value": 14300943000.0,
       "shares": 658063.0,
       "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "WEC ENERGY GROUP INC",
+      "ticker": null,
+      "cusip": "92939UAT3",
+      "value": 14282421000.0,
+      "shares": 13700000.0,
+      "shareType": "PRN",
       "investmentDiscretion": "DFND",
       "putCall": null
     },
@@ -26008,6 +26328,16 @@
       "putCall": null
     },
     {
+      "issuer": "THOMSON REUTERS CORP",
+      "ticker": null,
+      "cusip": "884903881",
+      "value": 12613196000.0,
+      "shares": 154441.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "STURM RUGER & CO INC",
       "ticker": "RGR",
       "cusip": "864159108",
@@ -26083,6 +26413,16 @@
       "cusip": "03475V101",
       "value": 12465753000.0,
       "shares": 958167.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "ENVIRI CORP",
+      "ticker": null,
+      "cusip": "29390K102",
+      "value": 12412923000.0,
+      "shares": 565509.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -26354,6 +26694,16 @@
       "value": 11682681000.0,
       "shares": 587660.0,
       "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "ETSY INC",
+      "ticker": null,
+      "cusip": "29786AAQ9",
+      "value": 11679610000.0,
+      "shares": 10044000.0,
+      "shareType": "PRN",
       "investmentDiscretion": "DFND",
       "putCall": null
     },
@@ -26828,6 +27178,16 @@
       "putCall": null
     },
     {
+      "issuer": "AVALYN PHARMACEUTICALS INC",
+      "ticker": null,
+      "cusip": "05348Y105",
+      "value": 10501315000.0,
+      "shares": 318995.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "SAFE BULKERS INC",
       "ticker": null,
       "cusip": "Y7388L103",
@@ -27018,6 +27378,16 @@
       "putCall": null
     },
     {
+      "issuer": "FERVO ENERGY CO",
+      "ticker": null,
+      "cusip": "31556C106",
+      "value": 10027878000.0,
+      "shares": 343068.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "PACIFIC BIOSCIENCES CALIF IN",
       "ticker": "PACB",
       "cusip": "69404D108",
@@ -27043,6 +27413,26 @@
       "cusip": "92837L109",
       "value": 9948717000.0,
       "shares": 155936.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "ARXIS INC",
+      "ticker": null,
+      "cusip": "04339D105",
+      "value": 9948245000.0,
+      "shares": 215610.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "GOLAR LNG LTD",
+      "ticker": null,
+      "cusip": "38046YAD3",
+      "value": 9896443000.0,
+      "shares": 8700000.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -27104,6 +27494,16 @@
       "value": 9712027000.0,
       "shares": 385704.0,
       "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "CELCUITY INC",
+      "ticker": null,
+      "cusip": "15102KAB6",
+      "value": 9672658000.0,
+      "shares": 8500000.0,
+      "shareType": "PRN",
       "investmentDiscretion": "DFND",
       "putCall": null
     },
@@ -27188,6 +27588,16 @@
       "putCall": null
     },
     {
+      "issuer": "NCL CORP LTD",
+      "ticker": null,
+      "cusip": "62886HBT7",
+      "value": 9521534000.0,
+      "shares": 8550000.0,
+      "shareType": "PRN",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "SHIFT4 PMTS INC",
       "ticker": "FOUR",
       "cusip": "82452J307",
@@ -27243,6 +27653,16 @@
       "cusip": "451051106",
       "value": 9308156000.0,
       "shares": 272487.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "BLACKSTONE DIGITAL INFRASTRU",
+      "ticker": null,
+      "cusip": "09264B107",
+      "value": 9302501000.0,
+      "shares": 430074.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -27378,6 +27798,16 @@
       "putCall": null
     },
     {
+      "issuer": "NATIONAL HEALTHCARE PPTYS IN",
+      "ticker": null,
+      "cusip": "42226B501",
+      "value": 8974810000.0,
+      "shares": 612615.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "CLIMB BIO INC",
       "ticker": "CLYM",
       "cusip": "28658R106",
@@ -27474,6 +27904,16 @@
       "value": 8834839000.0,
       "shares": 439763.0,
       "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "GDS HLDGS LTD",
+      "ticker": null,
+      "cusip": "36165LAD0",
+      "value": 8830628000.0,
+      "shares": 7300000.0,
+      "shareType": "PRN",
       "investmentDiscretion": "DFND",
       "putCall": null
     },
@@ -27683,6 +28123,16 @@
       "cusip": "24661P807",
       "value": 8552135000.0,
       "shares": 679280.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "X-ENERGY INC",
+      "ticker": null,
+      "cusip": "98386P102",
+      "value": 8521574000.0,
+      "shares": 464138.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -28448,7 +28898,7 @@
       "putCall": null
     },
     {
-      "issuer": "AMC NETWORKS INC",
+      "issuer": "AMC GLOBAL MEDIA INC",
       "ticker": "AMCX",
       "cusip": "00164V103",
       "value": 7285570000.0,
@@ -28798,6 +29248,16 @@
       "putCall": null
     },
     {
+      "issuer": "AEVEX CORP",
+      "ticker": null,
+      "cusip": "00835T107",
+      "value": 6884926000.0,
+      "shares": 329580.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "STRATTEC SEC CORP",
       "ticker": "STRT",
       "cusip": "863111100",
@@ -28938,7 +29398,7 @@
       "putCall": null
     },
     {
-      "issuer": "NATIONAL RESH CORP",
+      "issuer": "NRC HEALTH",
       "ticker": "NRC",
       "cusip": "637372202",
       "value": 6483381000.0,
@@ -28988,7 +29448,7 @@
       "putCall": null
     },
     {
-      "issuer": "SHOE CARNIVAL INC",
+      "issuer": "SHOE STA GROUP INC",
       "ticker": "SCVL",
       "cusip": "824889109",
       "value": 6373445000.0,
@@ -29888,6 +30348,16 @@
       "putCall": null
     },
     {
+      "issuer": "Z SQUARED INC",
+      "ticker": null,
+      "cusip": "98878K108",
+      "value": 5274310000.0,
+      "shares": 498517.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "SUMMIT MIDSTREAM CORPORATION",
       "ticker": null,
       "cusip": "86614G101",
@@ -30128,7 +30598,7 @@
       "putCall": null
     },
     {
-      "issuer": "CENTRAIS ELET BRAS SA",
+      "issuer": "AXIA ENERGIA SA",
       "ticker": null,
       "cusip": "15236F100",
       "value": 4985856000.0,
@@ -30288,7 +30758,7 @@
       "putCall": null
     },
     {
-      "issuer": "LOVESAC COMPANY",
+      "issuer": "LOVESAC CO",
       "ticker": null,
       "cusip": "54738L109",
       "value": 4785390000.0,
@@ -30718,6 +31188,16 @@
       "putCall": null
     },
     {
+      "issuer": "YESWAY INC",
+      "ticker": null,
+      "cusip": "98585C100",
+      "value": 4437113000.0,
+      "shares": 218577.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "UTAH MED PRODS INC",
       "ticker": "UTM",
       "cusip": "917488108",
@@ -30813,6 +31293,16 @@
       "cusip": "G6891L105",
       "value": 4358783000.0,
       "shares": 670582.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "SUNCRETE INC",
+      "ticker": null,
+      "cusip": "86723E104",
+      "value": 4358226000.0,
+      "shares": 193441.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -31158,6 +31648,16 @@
       "putCall": null
     },
     {
+      "issuer": "ALAMAR BIOSCIENCES INC",
+      "ticker": null,
+      "cusip": "010911105",
+      "value": 3929648000.0,
+      "shares": 145059.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "ANGEL OAK MORTGAGE REIT INC",
       "ticker": null,
       "cusip": "03464Y108",
@@ -31278,7 +31778,7 @@
       "putCall": null
     },
     {
-      "issuer": "GCI LIBERTY INC",
+      "issuer": "LIBERTY CAP CORP",
       "ticker": "GLIBA",
       "cusip": "36164V602",
       "value": 3838632000.0,
@@ -31578,6 +32078,16 @@
       "putCall": null
     },
     {
+      "issuer": "AIAI HOLDINGS CORP",
+      "ticker": null,
+      "cusip": "008933103",
+      "value": 3566816000.0,
+      "shares": 256421.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "LIFECORE BIOMEDICAL INC",
       "ticker": null,
       "cusip": "514766104",
@@ -31808,6 +32318,16 @@
       "putCall": null
     },
     {
+      "issuer": "FIRST NORTHN CMNTY BANCORP",
+      "ticker": null,
+      "cusip": "335925103",
+      "value": 3246674000.0,
+      "shares": 180974.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "UP FINTECH HLDG LTD",
       "ticker": "TIGR",
       "cusip": "91531W106",
@@ -31968,7 +32488,7 @@
       "putCall": null
     },
     {
-      "issuer": "KINGSWAY FINL SVCS INC",
+      "issuer": "KINGSWAY CORP",
       "ticker": "KFS",
       "cusip": "496904202",
       "value": 3105118000.0,
@@ -32203,6 +32723,26 @@
       "cusip": "10482B101",
       "value": 2835380000.0,
       "shares": 1312676.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "HMH HLDG INC",
+      "ticker": null,
+      "cusip": "40445M100",
+      "value": 2825224000.0,
+      "shares": 150759.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "HEMAB THERAPEUTICS HLDGS INC",
+      "ticker": null,
+      "cusip": "423494103",
+      "value": 2824537000.0,
+      "shares": 76900.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -32458,6 +32998,16 @@
       "putCall": null
     },
     {
+      "issuer": "ELMET GROUP CO (THE)",
+      "ticker": null,
+      "cusip": "289395105",
+      "value": 2639988000.0,
+      "shares": 133738.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "STAR BULK CARRIERS CORP.",
       "ticker": null,
       "cusip": "Y8162K204",
@@ -32558,6 +33108,16 @@
       "putCall": null
     },
     {
+      "issuer": "DIGIMARC CORP",
+      "ticker": null,
+      "cusip": "25382K100",
+      "value": 2591010000.0,
+      "shares": 315208.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "SELECT SECTOR SPDR TR",
       "ticker": null,
       "cusip": "81369Y860",
@@ -32603,6 +33163,16 @@
       "cusip": "30049A107",
       "value": 2545423000.0,
       "shares": 691691.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "GMR SOLUTIONS INC",
+      "ticker": null,
+      "cusip": "38013D106",
+      "value": 2542397000.0,
+      "shares": 164450.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -32763,6 +33333,16 @@
       "cusip": "07782B104",
       "value": 2452057000.0,
       "shares": 15924.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "BOOST RUN INC",
+      "ticker": null,
+      "cusip": "09940T100",
+      "value": 2441149000.0,
+      "shares": 62900.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -33738,7 +34318,7 @@
       "putCall": null
     },
     {
-      "issuer": "ANGEL STUDIOS INC",
+      "issuer": "ANGEL STUDIOS INC.",
       "ticker": "ANGX",
       "cusip": "034948109",
       "value": 1712055000.0,
@@ -33823,6 +34403,16 @@
       "cusip": "68629Y103",
       "value": 1668227000.0,
       "shares": 573274.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "HAWKEYE 360 INC",
+      "ticker": null,
+      "cusip": "420201105",
+      "value": 1658040000.0,
+      "shares": 82000.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -34148,6 +34738,16 @@
       "putCall": null
     },
     {
+      "issuer": "ODYSSEY THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "67613T104",
+      "value": 1477155000.0,
+      "shares": 78950.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "FREIGHTCAR AMER INC",
       "ticker": "RAIL",
       "cusip": "357023100",
@@ -34163,6 +34763,16 @@
       "cusip": "98955N207",
       "value": 1468455000.0,
       "shares": 469155.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "SEAPORT THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "81221K108",
+      "value": 1447638000.0,
+      "shares": 66650.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -34708,7 +35318,7 @@
       "putCall": null
     },
     {
-      "issuer": "ENHANCED GROUP INC COMMON STOCK USD",
+      "issuer": "ENHANCED GROUP INC",
       "ticker": null,
       "cusip": "29333R107",
       "value": 967621000.0,
@@ -34743,6 +35353,16 @@
       "cusip": "590106100",
       "value": 942833000.0,
       "shares": 165700.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "IMMUNIC INC",
+      "ticker": null,
+      "cusip": "4525EP200",
+      "value": 941551000.0,
+      "shares": 61259.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -34988,7 +35608,7 @@
       "putCall": null
     },
     {
-      "issuer": "NL INDS INC",
+      "issuer": "NLI HOLDINGS INC",
       "ticker": null,
       "cusip": "629156407",
       "value": 795973000.0,
@@ -35093,6 +35713,16 @@
       "cusip": "Y23592135",
       "value": 743211000.0,
       "shares": 11198.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "MOBIA MED INC",
+      "ticker": null,
+      "cusip": "60705V103",
+      "value": 734990000.0,
+      "shares": 54850.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -35218,7 +35848,7 @@
       "putCall": null
     },
     {
-      "issuer": "RYVYL INC",
+      "issuer": "RTB DIGITAL INC",
       "ticker": null,
       "cusip": "39366L406",
       "value": 678283000.0,
@@ -35418,6 +36048,16 @@
       "putCall": null
     },
     {
+      "issuer": "SUJA LIFE INC",
+      "ticker": null,
+      "cusip": "86508F102",
+      "value": 606552000.0,
+      "shares": 59700.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "OWLET INC",
       "ticker": null,
       "cusip": "69120X206",
@@ -35458,7 +36098,7 @@
       "putCall": null
     },
     {
-      "issuer": "SKILLZ INC",
+      "issuer": "FIRY INC",
       "ticker": "SKLZ",
       "cusip": "83067L208",
       "value": 595143000.0,
@@ -36178,6 +36818,16 @@
       "putCall": null
     },
     {
+      "issuer": "CUE BIOPHARMA INC",
+      "ticker": null,
+      "cusip": "22978P205",
+      "value": 447395000.0,
+      "shares": 14176.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "PLDT INC",
       "ticker": "PHI",
       "cusip": "69344D408",
@@ -36253,6 +36903,16 @@
       "cusip": "30219Q106",
       "value": 436189000.0,
       "shares": 243681.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "LINCOLN INTL INC",
+      "ticker": null,
+      "cusip": "533714101",
+      "value": 435826000.0,
+      "shares": 17950.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -36648,6 +37308,16 @@
       "putCall": null
     },
     {
+      "issuer": "WHEELS UP EXPERIENCE INC",
+      "ticker": null,
+      "cusip": "96328L304",
+      "value": 375009000.0,
+      "shares": 41807.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "PUBLIC POL HLDG CO INC",
       "ticker": null,
       "cusip": "744430208",
@@ -36813,6 +37483,16 @@
       "cusip": "539439109",
       "value": 340262000.0,
       "shares": 58364.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "SILVER BOW MNG CORP",
+      "ticker": null,
+      "cusip": "827427105",
+      "value": 340028000.0,
+      "shares": 50300.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -37108,7 +37788,17 @@
       "putCall": null
     },
     {
-      "issuer": "ALT5 SIGMA CORP",
+      "issuer": "CHRONOSCALE CORP",
+      "ticker": null,
+      "cusip": "170924104",
+      "value": 307480000.0,
+      "shares": 13838.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "AI FINL CORP",
       "ticker": "ALTS",
       "cusip": "47089W104",
       "value": 306005000.0,
@@ -37128,7 +37818,7 @@
       "putCall": null
     },
     {
-      "issuer": "SRX HEALTH SOLUTIONS INC.",
+      "issuer": "SRX GLOBAL INC",
       "ticker": "SRXH",
       "cusip": "08771Y402",
       "value": 304693000.0,
@@ -37298,6 +37988,16 @@
       "putCall": null
     },
     {
+      "issuer": "BARK INC",
+      "ticker": null,
+      "cusip": "68622E203",
+      "value": 284929000.0,
+      "shares": 28550.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "RANI THERAPEUTICS HLDGS INC",
       "ticker": "RANI",
       "cusip": "753018100",
@@ -37348,7 +38048,7 @@
       "putCall": null
     },
     {
-      "issuer": "STANDARD LITHIUM LTD",
+      "issuer": "STANDARD LITHIUM CORP",
       "ticker": "SLI",
       "cusip": "853606101",
       "value": 278726000.0,
@@ -37468,7 +38168,7 @@
       "putCall": null
     },
     {
-      "issuer": "THE BEAUTY HEALTH COMPANY",
+      "issuer": "SKINHEALTH SYSTEMS INC",
       "ticker": null,
       "cusip": "88331L108",
       "value": 268101000.0,
@@ -37903,6 +38603,16 @@
       "cusip": "56624R108",
       "value": 226521000.0,
       "shares": 140696.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "RARE EARTHS AMERICAS INC",
+      "ticker": null,
+      "cusip": "75381A108",
+      "value": 226144000.0,
+      "shares": 14800.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -38558,6 +39268,16 @@
       "putCall": null
     },
     {
+      "issuer": "NAKAMOTO INC",
+      "ticker": null,
+      "cusip": "49457M205",
+      "value": 183560000.0,
+      "shares": 46471.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "GOSSAMER BIO INC",
       "ticker": "GOSS",
       "cusip": "38341P102",
@@ -38713,6 +39433,16 @@
       "cusip": "30234E203",
       "value": 170681000.0,
       "shares": 54357.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "CARPARTS COM INC",
+      "ticker": null,
+      "cusip": "14427M206",
+      "value": 170512000.0,
+      "shares": 26477.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -38913,6 +39643,16 @@
       "cusip": "L0175J138",
       "value": 153743000.0,
       "shares": 20499.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "KALA BIO INC",
+      "ticker": null,
+      "cusip": "483119301",
+      "value": 153226000.0,
+      "shares": 88570.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -39168,7 +39908,7 @@
       "putCall": null
     },
     {
-      "issuer": "U S ENERGY CORP DEL",
+      "issuer": "BIG SKY INDL INC",
       "ticker": "USEG",
       "cusip": "911805307",
       "value": 137028000.0,
@@ -39223,6 +39963,16 @@
       "cusip": "05280R100",
       "value": 135054000.0,
       "shares": 84409.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "PLUS THERAPEUTICS INC",
+      "ticker": null,
+      "cusip": "72941H806",
+      "value": 134828000.0,
+      "shares": 30853.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -39288,7 +40038,7 @@
       "putCall": null
     },
     {
-      "issuer": "SHARPS TECHNOLOGY INC",
+      "issuer": "SKYAI INC",
       "ticker": "STSS",
       "cusip": "82003F309",
       "value": 131868000.0,
@@ -39388,11 +40138,21 @@
       "putCall": null
     },
     {
-      "issuer": "NOVABAY PHARMACEUTICALS INC",
+      "issuer": "STABLECOIN DEV CORP",
       "ticker": null,
       "cusip": "66987P508",
       "value": 123012000.0,
       "shares": 117154.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "LUNAI BIOWORKS INC",
+      "ticker": null,
+      "cusip": "29350E302",
+      "value": 122746000.0,
+      "shares": 37537.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -39538,6 +40298,16 @@
       "putCall": null
     },
     {
+      "issuer": "MOBIX LABS INC",
+      "ticker": null,
+      "cusip": "60743G209",
+      "value": 110523000.0,
+      "shares": 52630.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "MYOMO INC",
       "ticker": null,
       "cusip": "62857J201",
@@ -39648,7 +40418,7 @@
       "putCall": null
     },
     {
-      "issuer": "MAWSON INFRASTRUCTURE GROUP",
+      "issuer": "BIG DIGITAL ENERGY INC",
       "ticker": "MIGI",
       "cusip": "57778N406",
       "value": 105256000.0,
@@ -39683,6 +40453,16 @@
       "cusip": "03062T105",
       "value": 102800000.0,
       "shares": 36846.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "CARDLYTICS INC",
+      "ticker": null,
+      "cusip": "14161W303",
+      "value": 102228000.0,
+      "shares": 22768.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -39928,6 +40708,16 @@
       "putCall": null
     },
     {
+      "issuer": "TRILLER GROUP INC",
+      "ticker": null,
+      "cusip": "895970309",
+      "value": 84688000.0,
+      "shares": 31250.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "SIEBERT FINL CORP",
       "ticker": "SIEB",
       "cusip": "826176109",
@@ -39998,7 +40788,7 @@
       "putCall": null
     },
     {
-      "issuer": "ALLBIRDS INC",
+      "issuer": "SMARTBIRD INC",
       "ticker": null,
       "cusip": "01675A208",
       "value": 78856000.0,
@@ -40088,7 +40878,7 @@
       "putCall": null
     },
     {
-      "issuer": "BLOCKCHAIN DIGITAL INFRSTR I",
+      "issuer": "AIB DATA CENTERS INC",
       "ticker": null,
       "cusip": "093919108",
       "value": 73367000.0,
@@ -40218,7 +41008,7 @@
       "putCall": null
     },
     {
-      "issuer": "HOTH THERAPEUTICS INC",
+      "issuer": "ROCKET ONE INC",
       "ticker": "HOTH",
       "cusip": "44148G204",
       "value": 63939000.0,
@@ -40273,6 +41063,16 @@
       "cusip": "07317Q105",
       "value": 61796000.0,
       "shares": 15388.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "SCYNEXIS INC",
+      "ticker": null,
+      "cusip": "811292309",
+      "value": 61416000.0,
+      "shares": 15090.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -40518,6 +41318,16 @@
       "putCall": null
     },
     {
+      "issuer": "UPLAND SOFTWARE INC",
+      "ticker": null,
+      "cusip": "91544A208",
+      "value": 51342000.0,
+      "shares": 10994.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "IRIDEX CORP",
       "ticker": "IRIX",
       "cusip": "462684101",
@@ -40628,7 +41438,7 @@
       "putCall": null
     },
     {
-      "issuer": "VOLITIONRX LTD COMMON STOCK USD 0.001",
+      "issuer": "VOLITIONRX LTD",
       "ticker": null,
       "cusip": "928661206",
       "value": 45893000.0,
@@ -40888,6 +41698,16 @@
       "putCall": null
     },
     {
+      "issuer": "ALL IN FUTURETECH ALLIANCE I",
+      "ticker": null,
+      "cusip": "019170208",
+      "value": 38260000.0,
+      "shares": 17157.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "GLIMPSE GROUP INC",
       "ticker": null,
       "cusip": "37892C106",
@@ -40973,6 +41793,16 @@
       "cusip": "005083100",
       "value": 33431000.0,
       "shares": 21850.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "VIDA GLOBAL INC",
+      "ticker": null,
+      "cusip": "92649G108",
+      "value": 33040000.0,
+      "shares": 11800.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -41348,7 +42178,7 @@
       "putCall": null
     },
     {
-      "issuer": "POLAR PWR INC",
+      "issuer": "POLAR PWR INC.",
       "ticker": null,
       "cusip": "73102V204",
       "value": 19242000.0,
@@ -41623,6 +42453,16 @@
       "cusip": "92859E207",
       "value": 11327000.0,
       "shares": 24922.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
+      "issuer": "SENTI BIOSCIENCES HOLDINGS I",
+      "ticker": null,
+      "cusip": "816944102",
+      "value": 11011000.0,
+      "shares": 10010.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
