@@ -3,7 +3,7 @@
         "id": "SP500",
         "name": "S&P 500",
         "frequency": "D",
-        "currentValue": 7743.41,
+        "currentValue": 7683.69,
         "data": [
             {
                 "date": "2025-09-29",
@@ -1004,6 +1004,10 @@
             {
                 "date": "2026-09-25",
                 "value": 7743.41
+            },
+            {
+                "date": "2026-09-28",
+                "value": 7683.69
             }
         ]
     },
@@ -1011,7 +1015,7 @@
         "id": "NASDAQCOM",
         "name": "NASDAQ",
         "frequency": "D",
-        "currentValue": 27068.72,
+        "currentValue": 26820.38,
         "data": [
             {
                 "date": "2025-09-29",
@@ -2012,6 +2016,10 @@
             {
                 "date": "2026-09-25",
                 "value": 27068.72
+            },
+            {
+                "date": "2026-09-28",
+                "value": 26820.38
             }
         ]
     },
@@ -2019,7 +2027,7 @@
         "id": "NASDAQ100",
         "name": "NASDAQ-100",
         "frequency": "D",
-        "currentValue": 30608.13,
+        "currentValue": 30276.81,
         "data": [
             {
                 "date": "2025-09-29",
@@ -3020,6 +3028,10 @@
             {
                 "date": "2026-09-25",
                 "value": 30608.13
+            },
+            {
+                "date": "2026-09-28",
+                "value": 30276.81
             }
         ]
     },
@@ -4051,7 +4063,7 @@
         "id": "DGS2",
         "name": "US 2Y Yield",
         "frequency": "Daily",
-        "currentValue": 4.87,
+        "currentValue": 4.81,
         "data": [
             {
                 "date": "2025-09-29",
@@ -5044,6 +5056,10 @@
             {
                 "date": "2026-09-24",
                 "value": 4.87
+            },
+            {
+                "date": "2026-09-25",
+                "value": 4.81
             }
         ]
     },
@@ -5051,7 +5067,7 @@
         "id": "DGS10",
         "name": "US 10Y Yield",
         "frequency": "Daily",
-        "currentValue": 5.18,
+        "currentValue": 5.17,
         "data": [
             {
                 "date": "2025-09-29",
@@ -6044,6 +6060,10 @@
             {
                 "date": "2026-09-24",
                 "value": 5.18
+            },
+            {
+                "date": "2026-09-25",
+                "value": 5.17
             }
         ]
     },
@@ -6051,7 +6071,7 @@
         "id": "DGS30",
         "name": "US 30Y Yield",
         "frequency": "Daily",
-        "currentValue": 5.47,
+        "currentValue": 5.49,
         "data": [
             {
                 "date": "2025-09-29",
@@ -7044,6 +7064,10 @@
             {
                 "date": "2026-09-24",
                 "value": 5.47
+            },
+            {
+                "date": "2026-09-25",
+                "value": 5.49
             }
         ]
     },
@@ -9043,7 +9067,7 @@
         "id": "DTWEXBGS",
         "name": "Dollar Index",
         "frequency": "Daily",
-        "currentValue": 119.5133,
+        "currentValue": 120.33,
         "data": [
             {
                 "date": "2025-09-29",
@@ -10020,6 +10044,26 @@
             {
                 "date": "2026-09-18",
                 "value": 119.5133
+            },
+            {
+                "date": "2026-09-21",
+                "value": 119.4014
+            },
+            {
+                "date": "2026-09-22",
+                "value": 119.5933
+            },
+            {
+                "date": "2026-09-23",
+                "value": 120.1169
+            },
+            {
+                "date": "2026-09-24",
+                "value": 120.5521
+            },
+            {
+                "date": "2026-09-25",
+                "value": 120.33
             }
         ]
     }
