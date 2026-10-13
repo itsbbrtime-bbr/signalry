@@ -3,7 +3,7 @@
         "id": "SP500",
         "name": "S&P 500",
         "frequency": "D",
-        "currentValue": 7811.54,
+        "currentValue": 7807.24,
         "data": [
             {
                 "date": "2025-10-13",
@@ -1004,6 +1004,10 @@
             {
                 "date": "2026-10-09",
                 "value": 7811.54
+            },
+            {
+                "date": "2026-10-12",
+                "value": 7807.24
             }
         ]
     },
@@ -1011,7 +1015,7 @@
         "id": "NASDAQCOM",
         "name": "NASDAQ",
         "frequency": "D",
-        "currentValue": 27366.17,
+        "currentValue": 27245.9,
         "data": [
             {
                 "date": "2025-10-13",
@@ -2012,6 +2016,10 @@
             {
                 "date": "2026-10-09",
                 "value": 27366.17
+            },
+            {
+                "date": "2026-10-12",
+                "value": 27245.9
             }
         ]
     },
@@ -2019,7 +2027,7 @@
         "id": "NASDAQ100",
         "name": "NASDAQ-100",
         "frequency": "D",
-        "currentValue": 30883.15,
+        "currentValue": 30664.7,
         "data": [
             {
                 "date": "2025-10-13",
@@ -3020,6 +3028,10 @@
             {
                 "date": "2026-10-09",
                 "value": 30883.15
+            },
+            {
+                "date": "2026-10-12",
+                "value": 30664.7
             }
         ]
     },
@@ -3027,7 +3039,7 @@
         "id": "VIXCLS",
         "name": "VIX",
         "frequency": "D",
-        "currentValue": 15.41,
+        "currentValue": 14.84,
         "data": [
             {
                 "date": "2025-10-13",
@@ -4052,6 +4064,10 @@
             {
                 "date": "2026-10-08",
                 "value": 15.41
+            },
+            {
+                "date": "2026-10-09",
+                "value": 14.84
             }
         ]
     },
