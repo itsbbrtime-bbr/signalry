@@ -7,32 +7,32 @@
   },
   "filing": {
     "form": "13F-HR",
-    "accessionNumber": "0001656456-26-000003",
-    "filingDate": "2026-08-14",
-    "reportDate": "2026-06-30"
+    "accessionNumber": "0001656456-26-000004",
+    "filingDate": "2026-11-16",
+    "reportDate": "2026-09-30"
   },
-  "dataUpdatedAt": "2026-08-20T12:53:15.747229+00:00",
+  "dataUpdatedAt": "2026-11-17T12:40:13.935016+00:00",
   "summary": {
-    "totalHoldings": 27,
-    "totalValue": 7725383349000.0
+    "totalHoldings": 24,
+    "totalValue": 7559628593000.0
   },
   "holdings": [
     {
-      "issuer": "AMAZON COM INC",
-      "ticker": "AMZN",
-      "cusip": "023135106",
-      "value": 1191700000000.0,
-      "shares": 5000000.0,
+      "issuer": "MICRON TECHNOLOGY INC",
+      "ticker": "MU",
+      "cusip": "595112103",
+      "value": 1331387500000.0,
+      "shares": 1250000.0,
       "shareType": "SH",
       "investmentDiscretion": "SOLE",
       "putCall": null
     },
     {
-      "issuer": "MICRON TECHNOLOGY INC",
-      "ticker": "MU",
-      "cusip": "595112103",
-      "value": 1125432750000.0,
-      "shares": 975000.0,
+      "issuer": "AMAZON COM INC",
+      "ticker": "AMZN",
+      "cusip": "023135106",
+      "value": 1114946250000.0,
+      "shares": 4475000.0,
       "shareType": "SH",
       "investmentDiscretion": "SOLE",
       "putCall": null
@@ -41,188 +41,8 @@
       "issuer": "TAIWAN SEMICONDUCTOR MANUFAC",
       "ticker": "TSM",
       "cusip": "874039100",
-      "value": 787990500000.0,
-      "shares": 1650000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "ALPHABET INC",
-      "ticker": "GOOG",
-      "cusip": "02079K107",
-      "value": 653660500000.0,
-      "shares": 1850000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "UBER TECHNOLOGIES INC",
-      "ticker": "UBER",
-      "cusip": "90353T100",
-      "value": 555204163000.0,
-      "shares": 7694071.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "ISHARES INC",
-      "ticker": "EWY",
-      "cusip": "464286772",
-      "value": 489607500000.0,
-      "shares": 2425000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "META PLATFORMS INC",
-      "ticker": "META",
-      "cusip": "30303M102",
-      "value": 380220750000.0,
-      "shares": 675000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "VISTRA CORP",
-      "ticker": null,
-      "cusip": "92840M102",
-      "value": 351408597000.0,
-      "shares": 2215272.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "NVIDIA CORPORATION",
-      "ticker": "NVDA",
-      "cusip": "67066G104",
-      "value": 305137250000.0,
-      "shares": 1525000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "NRG ENERGY INC",
-      "ticker": "NRA",
-      "cusip": "629377508",
-      "value": 257065600000.0,
-      "shares": 1760000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "APPLE INC",
-      "ticker": "AAPL",
-      "cusip": "037833100",
-      "value": 241615600000.0,
-      "shares": 835000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": "Put"
-    },
-    {
-      "issuer": "ALIBABA GROUP HLDG LTD",
-      "ticker": "BABA",
-      "cusip": "01609W102",
-      "value": 191960000000.0,
-      "shares": 2000000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "BOEING CO",
-      "ticker": "BA",
-      "cusip": "097023105",
-      "value": 173176000000.0,
-      "shares": 800000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "LAM RESEARCH CORP",
-      "ticker": "LRCX",
-      "cusip": "512807306",
-      "value": 165748725000.0,
-      "shares": 382500.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "BAIDU INC",
-      "ticker": "BIDUN",
-      "cusip": "056752108",
-      "value": 148005550000.0,
-      "shares": 1295000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "AMERICAN AIRLINES GROUP INC",
-      "ticker": "AAL",
-      "cusip": "02376R102",
-      "value": 135525000000.0,
-      "shares": 7500000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "ADVANCED MICRO DEVICES INC",
-      "ticker": "AMD",
-      "cusip": "007903107",
-      "value": 114729725000.0,
-      "shares": 197500.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "COREWEAVE INC",
-      "ticker": "CRWV",
-      "cusip": "21873S108",
-      "value": 107328806000.0,
-      "shares": 1078248.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "ASML HLDG NV",
-      "ticker": null,
-      "cusip": "N07059210",
-      "value": 99472000000.0,
-      "shares": 50000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "BROADCOM INC",
-      "ticker": "AVGO",
-      "cusip": "11135F101",
-      "value": 56662500000.0,
-      "shares": 150000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "QUALCOMM INC",
-      "ticker": "QCOM",
-      "cusip": "747525103",
-      "value": 46197500000.0,
-      "shares": 250000.0,
+      "value": 718499250000.0,
+      "shares": 1575000.0,
       "shareType": "SH",
       "investmentDiscretion": "SOLE",
       "putCall": null
@@ -231,8 +51,188 @@
       "issuer": "SPACE EXPLORATION TECHN CORP",
       "ticker": null,
       "cusip": "84615Q103",
-      "value": 38443500000.0,
+      "value": 556547062000.0,
+      "shares": 3883329.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "UBER TECHNOLOGIES INC",
+      "ticker": "UBER",
+      "cusip": "90353T100",
+      "value": 501150650000.0,
+      "shares": 7315000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NVIDIA CORPORATION",
+      "ticker": "NVDA",
+      "cusip": "67066G104",
+      "value": 456760000000.0,
+      "shares": 2000000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ISHARES INC",
+      "ticker": "EWY",
+      "cusip": "464286772",
+      "value": 384961914000.0,
+      "shares": 2106149.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "META PLATFORMS INC",
+      "ticker": "META",
+      "cusip": "30303M102",
+      "value": 380719500000.0,
+      "shares": 525000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALPHABET INC",
+      "ticker": "GOOG",
+      "cusip": "02079K107",
+      "value": 340740000000.0,
+      "shares": 1000000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "VISTRA CORP",
+      "ticker": null,
+      "cusip": "92840M102",
+      "value": 292647881000.0,
+      "shares": 2115272.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "LAM RESEARCH CORP",
+      "ticker": "LRCX",
+      "cusip": "512807306",
+      "value": 205318750000.0,
+      "shares": 625000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ALIBABA GROUP HLDG LTD",
+      "ticker": "BABA",
+      "cusip": "01609W102",
+      "value": 198949000000.0,
+      "shares": 1850000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ORACLE CORP",
+      "ticker": "ORCL",
+      "cusip": "68389X105",
+      "value": 172164864000.0,
+      "shares": 1253932.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BOEING CO",
+      "ticker": "BA",
+      "cusip": "097023105",
+      "value": 141398000000.0,
+      "shares": 760000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "NRG ENERGY INC",
+      "ticker": "NRA",
+      "cusip": "629377508",
+      "value": 136301250000.0,
+      "shares": 1425000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "ASML HLDG NV",
+      "ticker": null,
+      "cusip": "N07059210",
+      "value": 117758550000.0,
+      "shares": 65000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "APPLIED MATLS INC",
+      "ticker": "AMAT",
+      "cusip": "038222105",
+      "value": 115060500000.0,
       "shares": 225000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "COREWEAVE INC",
+      "ticker": "CRWV",
+      "cusip": "21873S108",
+      "value": 105850800000.0,
+      "shares": 1215000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "BAIDU INC",
+      "ticker": "BIDUN",
+      "cusip": "056752108",
+      "value": 95557000000.0,
+      "shares": 1100000.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "MODINE MFG CO",
+      "ticker": "MOD",
+      "cusip": "607828100",
+      "value": 52969925000.0,
+      "shares": 282959.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "AMERICAN AIRLINES GROUP INC",
+      "ticker": "AAL",
+      "cusip": "02376R102",
+      "value": 52523176000.0,
+      "shares": 3928435.0,
+      "shareType": "SH",
+      "investmentDiscretion": "SOLE",
+      "putCall": null
+    },
+    {
+      "issuer": "PG&E CORP",
+      "ticker": null,
+      "cusip": "69331C108",
+      "value": 30931250000.0,
+      "shares": 2525000.0,
       "shareType": "SH",
       "investmentDiscretion": "SOLE",
       "putCall": null
@@ -241,8 +241,8 @@
       "issuer": "ENERGY TRANSFER L P",
       "ticker": "ET",
       "cusip": "29273V100",
-      "value": 30135510000.0,
-      "shares": 1576125.0,
+      "value": 29601957000.0,
+      "shares": 1497317.0,
       "shareType": "SH",
       "investmentDiscretion": "SOLE",
       "putCall": null
@@ -251,38 +251,8 @@
       "issuer": "MPLX LP",
       "ticker": "MPLX",
       "cusip": "55336V100",
-      "value": 28303572000.0,
-      "shares": 502460.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "WHIRLPOOL CORP",
-      "ticker": "WHR",
-      "cusip": "963320106",
-      "value": 28185300000.0,
-      "shares": 715000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": null
-    },
-    {
-      "issuer": "BERKSHIRE HATHAWAY INC DEL",
-      "ticker": "BRK/B",
-      "cusip": "084670702",
-      "value": 12509750000.0,
-      "shares": 25000.0,
-      "shareType": "SH",
-      "investmentDiscretion": "SOLE",
-      "putCall": "Put"
-    },
-    {
-      "issuer": "GOODYEAR TIRE & RUBR CO",
-      "ticker": "GT",
-      "cusip": "382550101",
-      "value": 9956701000.0,
-      "shares": 1508591.0,
+      "value": 26883564000.0,
+      "shares": 477336.0,
       "shareType": "SH",
       "investmentDiscretion": "SOLE",
       "putCall": null
