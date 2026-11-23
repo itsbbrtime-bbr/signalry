@@ -3254,10 +3254,6 @@
     "currentValue": 3.9,
     "data": [
       {
-        "date": "2025-11-22",
-        "value": 3.9
-      },
-      {
         "date": "2025-11-23",
         "value": 3.9
       },
@@ -4947,10 +4943,6 @@
     "period_years": 1,
     "currentValue": 3.88,
     "data": [
-      {
-        "date": "2025-11-22",
-        "value": 3.88
-      },
       {
         "date": "2025-11-23",
         "value": 3.88
@@ -19181,7 +19173,7 @@
     "name": "SOFR 금리",
     "frequency": "D",
     "period_years": 1,
-    "currentValue": 3.91,
+    "currentValue": 3.92,
     "data": [
       {
         "date": "2025-11-24",
@@ -20170,6 +20162,10 @@
       {
         "date": "2026-11-19",
         "value": 3.91
+      },
+      {
+        "date": "2026-11-20",
+        "value": 3.92
       }
     ]
   },
@@ -26847,10 +26843,6 @@
     "currentValue": 203000.0,
     "data": [
       {
-        "date": "2025-11-22",
-        "value": 218000.0
-      },
-      {
         "date": "2025-11-29",
         "value": 216000.0
       },
@@ -27063,10 +27055,6 @@
     "period_years": 1,
     "currentValue": 1763000.0,
     "data": [
-      {
-        "date": "2025-11-22",
-        "value": 1932000.0
-      },
       {
         "date": "2025-11-29",
         "value": 1894000.0
@@ -34954,10 +34942,6 @@
     "period_years": 1,
     "currentValue": 162.28,
     "data": [
-      {
-        "date": "2025-11-22",
-        "value": 182.64
-      },
       {
         "date": "2025-11-23",
         "value": 354.59
