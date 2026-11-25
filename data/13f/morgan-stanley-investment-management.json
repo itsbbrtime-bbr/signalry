@@ -6,15 +6,15 @@
     "category": "Asset Management"
   },
   "filing": {
-    "form": "13F-HR",
-    "accessionNumber": "0000895421-26-000309",
-    "filingDate": "2026-11-13",
+    "form": "13F-HR/A",
+    "accessionNumber": "0000895421-26-000360",
+    "filingDate": "2026-11-25",
     "reportDate": "2026-09-30"
   },
-  "dataUpdatedAt": "2026-11-14T11:07:16.632200+00:00",
+  "dataUpdatedAt": "2026-11-25T13:46:17.698598+00:00",
   "summary": {
-    "totalHoldings": 45241,
-    "totalValue": 1955925983190000.0
+    "totalHoldings": 45240,
+    "totalValue": 1946292192940000.0
   },
   "holdings": [
     {
@@ -183,16 +183,6 @@
       "cusip": "921937835",
       "value": 10023561192000.0,
       "shares": 142887543.0,
-      "shareType": "SH",
-      "investmentDiscretion": "DFND",
-      "putCall": null
-    },
-    {
-      "issuer": "WESTERN MIDSTREAM PARTNERS L",
-      "ticker": "WES",
-      "cusip": "958669103",
-      "value": 9841697676000.0,
-      "shares": 221809729.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
@@ -4818,6 +4808,16 @@
       "putCall": null
     },
     {
+      "issuer": "WESTERN MIDSTREAM PARTNERS L",
+      "ticker": "WES",
+      "cusip": "958669103",
+      "value": 678832426000.0,
+      "shares": 15299356.0,
+      "shareType": "SH",
+      "investmentDiscretion": "DFND",
+      "putCall": null
+    },
+    {
       "issuer": "ISHARES TR",
       "ticker": "EFV",
       "cusip": "464288877",
@@ -6863,16 +6863,6 @@
       "cusip": "882508104",
       "value": 472021618000.0,
       "shares": 1685249.0,
-      "shareType": "SH",
-      "investmentDiscretion": "DFND",
-      "putCall": null
-    },
-    {
-      "issuer": "ISHARES TR",
-      "ticker": null,
-      "cusip": "464289529",
-      "value": 470925000000.0,
-      "shares": 11500000.0,
       "shareType": "SH",
       "investmentDiscretion": "DFND",
       "putCall": null
